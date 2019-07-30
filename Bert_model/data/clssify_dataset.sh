@@ -4,6 +4,7 @@
 ACE_path="/home/bensonliu/work/LDC2006T06/data/English"
 Miwa_path="/home/bensonliu/work/miwa2016/corpus"
 dest_path="/home/bensonliu/work/LDC2006T06/dataset"
+skip_file_list=("cts","un")
 ACE_set="timex2norm"
 
 # create directory if don't have
@@ -38,6 +39,9 @@ dev_set=`ls "$Miwa_path/dev" | awk 'match($0, /.split.ann/){print($0)}' | sed 's
 
 # clssify ACE data into sets
 for src in `ls "$ACE_path"`; do
+    if [[ $skip_file_list =~ $src ]]; then 
+        continue
+    fi
     targ_set=`ls "$ACE_path/$src/$ACE_set" | awk 'match($0, /.tab/){print($0)}' | sed 's/.tab//g'`
     for name in $targ_set; do
         sig=0
