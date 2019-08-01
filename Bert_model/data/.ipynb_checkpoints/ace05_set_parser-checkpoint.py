@@ -3,9 +3,6 @@ import glob
 import os
 from tqdm import tqdm
 
-import sys
-sys.path.append("/work/multi_doc_analyzer/")
-
 from multi_doc_analyzer.corpus_reader.ace2005_reader.apf_xml import ApfRelation, ApfEntity
 from multi_doc_analyzer.corpus_reader.ace2005_reader.apf_xml_parser import parse_apf_docs
 from multi_doc_analyzer.corpus_reader.ace2005_reader.sgm_parser import SgmDoc, parse_sgms_english, parse_sgms_chinese
@@ -212,7 +209,7 @@ def merge_sgm_apf(sgm_dicts: Dict[str, SgmDoc], doc2entities: Dict[str, Dict[str
 			s.entity_mentions = e_mentions
 			s.relation_mentions = r_mentions
 			sentences.append(s)
-		doc_dicts[docID] = Document(id=len(doc_dicts), sentences=sentences, doc_chars=sgm_doc.doc_chars)
+		doc_dicts[docID] = Document(id=len(doc_dicts), sentences=sentences)
 
 		if DEBUG == 1:
 			print('em_cross_count:{} r_cross_count:{} args_cross_count:{}'.
@@ -233,9 +230,10 @@ def clean_docs_english(doc_dicts):
 
 			cleaned_string = ''
 			last_char = ''
-			del_ids: List[int, str] = []
+			del_ids: List[int] = []
 			for char_id, char in enumerate(space_string):
-				if last_char == ' ' and char == ' ':
+				if (last_char == ' ') and (char == ' '):
+					assert space_string[char_id:char_id+1] == ' '
 					del_ids.append(char_id)
 				else:
 					cleaned_string += char
@@ -252,7 +250,8 @@ def clean_docs_english(doc_dicts):
 				entity.char_b -= gap_both
 				entity.char_e -= gap_both + gap_end
 				entity.string = sentence.string[entity.char_b:entity.char_e]
-			for token in sentence.tokens:
+			del_id_count = 0
+			for id, token in enumerate(sentence.tokens):
 				token.char_b -= sentence.char_b
 				token.char_e -= sentence.char_b
 				gap_both = 0
@@ -260,11 +259,17 @@ def clean_docs_english(doc_dicts):
 				for del_id in del_ids:
 					if del_id < token.char_b:
 						gap_both += 1
-					elif token.char_b < del_id < token.char_e:
-						gap_end += 1
+					if token.char_b < del_id < token.char_e:
+						raise IndexError
+					elif (token.char_b == del_id) and (token.char_e == del_id+1):
+						del_id_count += 1
+						del sentence.tokens[id]
 				token.char_b -= gap_both
 				token.char_e -= gap_both + gap_end
-				token.text = sentence.string[token.char_b:token.char_e]
+				token.id -= del_id_count
+				assert token.char_b is not None
+				assert token.char_e is not None
+			# token.text = sentence.string[token.char_b:token.char_e]
 
 
 def clean_docs_chinese(doc_dicts):
@@ -294,22 +299,20 @@ def clean_docs_chinese(doc_dicts):
 def parse_source_english(data_path)-> Dict[str, Document]:
 	doc_dicts = {}
 	nlp = StanfordCoreNLP('http://140.109.19.246', port=9000, lang='en')
-		
+	
 	SgmDoc_dicts = parse_sgms_english(data_path, nlp)
 	doc2entities, doc2relations, doc2events = parse_apf_docs(data_path)
 	doc_dicts.update(merge_sgm_apf(SgmDoc_dicts, doc2entities, doc2relations))
-    
 	clean_docs_english(doc_dicts)
 	return doc_dicts
 
 
 def parse_source_chinese(data_path) -> Dict[str, Document]:
 	doc_dicts = {}
-
+	
 	SgmDoc_dicts = parse_sgms_chinese(data_path)
 	doc2entities, doc2relations, doc2events = parse_apf_docs(data_path)
 	doc_dicts.update(merge_sgm_apf(SgmDoc_dicts, doc2entities, doc2relations))
-	
 	clean_docs_chinese(doc_dicts)
 	return doc_dicts
 
