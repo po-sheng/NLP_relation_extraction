@@ -298,7 +298,7 @@ def clean_docs_chinese(doc_dicts):
 
 def parse_source_english(data_path)-> Dict[str, Document]:
 	doc_dicts = {}
-	nlp = StanfordCoreNLP('http://140.109.19.246', port=9000, lang='en')
+	nlp = StanfordCoreNLP('http://140.109.19.190', port=9000, lang='en')
 	
 	SgmDoc_dicts = parse_sgms_english(data_path, nlp)
 	doc2entities, doc2relations, doc2events = parse_apf_docs(data_path)
@@ -319,48 +319,48 @@ def parse_source_chinese(data_path) -> Dict[str, Document]:
 
 if __name__ == '__main__':
 	#######english########
-	# import argparse
-	#
-	# DEBUG = 0
-	#
-	# parser = argparse.ArgumentParser()
-	# parser.add_argument('--data_path', default='/media/moju/data/work/resource/data/LDC2006T06/data/English/')
-	# parser.add_argument('--output_path', default='./output/')
-	# parser.add_argument('--corenlp_path', default='http://140.109.19.246')
-	#
-	# args = parser.parse_args()
-	#
-	# data_path = args.data_path
-	# doc_dicts = parse_source_english(data_path)
-	#
-	# print(len(doc_dicts))
-	# print(doc_dicts["AGGRESSIVEVOICEDAILY_20041101.1144"].sentences[1].char_b)
-	# print(doc_dicts["AGGRESSIVEVOICEDAILY_20041101.1144"].sentences[1].char_e)
-	# print(doc_dicts["AGGRESSIVEVOICEDAILY_20041101.1144"].sentences[1].text)
-	#
-	# print(str(doc_dicts["AGGRESSIVEVOICEDAILY_20041101.1144"].sentences[1].entity_mentions[0].text))
-	# print(str(doc_dicts["AGGRESSIVEVOICEDAILY_20041101.1144"].sentences[1].entity_mentions[0].char_b))
-	# print(str(doc_dicts["AGGRESSIVEVOICEDAILY_20041101.1144"].sentences[1].entity_mentions[0].char_e))
-	#
-	# print(doc_dicts["AGGRESSIVEVOICEDAILY_20041101.1144"].sentences[1].text[316 - 266:317 - 266])
+	import argparse
+	
+	DEBUG = 0
+	
+	parser = argparse.ArgumentParser()
+	parser.add_argument('--data_path', default='/work/LDC2006T06/data/English/')
+	parser.add_argument('--output_path', default='./output/')
+	parser.add_argument('--corenlp_path', default='http://140.109.19.246')
+	
+	args = parser.parse_args()
+	
+	data_path = args.data_path
+	doc_dicts = parse_source_english(data_path)
+	
+	print(len(doc_dicts))
+	print(doc_dicts["AGGRESSIVEVOICEDAILY_20041101.1144"].sentences[1].char_b)
+	print(doc_dicts["AGGRESSIVEVOICEDAILY_20041101.1144"].sentences[1].char_e)
+	print(doc_dicts["AGGRESSIVEVOICEDAILY_20041101.1144"].sentences[1].text)
+	
+	print(str(doc_dicts["AGGRESSIVEVOICEDAILY_20041101.1144"].sentences[1].entity_mentions[0].text))
+	print(str(doc_dicts["AGGRESSIVEVOICEDAILY_20041101.1144"].sentences[1].entity_mentions[0].char_b))
+	print(str(doc_dicts["AGGRESSIVEVOICEDAILY_20041101.1144"].sentences[1].entity_mentions[0].char_e))
+	
+	print(doc_dicts["AGGRESSIVEVOICEDAILY_20041101.1144"].sentences[1].text[316 - 266:317 - 266])
 	
 	#######chinese########
-	import argparse
+# 	import argparse
 
-	parser = argparse.ArgumentParser()
-	parser.add_argument('--data_path', default='/media/moju/data/work/resource/data/LDC2006T06/data/Chinese/')
-	parser.add_argument('--output_path', default='./output/')
-	parser.add_argument('--corenlp_path', default='http://140.109.19.190')
+# 	parser = argparse.ArgumentParser()
+# 	parser.add_argument('--data_path', default='/media/moju/data/work/resource/data/LDC2006T06/data/Chinese/')
+# 	parser.add_argument('--output_path', default='./output/')
+# 	parser.add_argument('--corenlp_path', default='http://140.109.19.190')
 
-	args = parser.parse_args()
+# 	args = parser.parse_args()
 
-	data_path = args.data_path
-	doc_dicts = parse_source_chinese(data_path)
+# 	data_path = args.data_path
+# 	doc_dicts = parse_source_chinese(data_path)
 
-	print(len(doc_dicts))
-	print(doc_dicts["CTS20001211.1300.0012"].sentences[1].text)
-	print(doc_dicts["CTS20001211.1300.0012"].sentences[1].char_b)
-	print(str(doc_dicts["CTS20001211.1300.0012"].sentences[1].relation_mentions[0].arg1.text))
-	print(str(doc_dicts["CTS20001211.1300.0012"].sentences[1].relation_mentions[0].arg1.char_b))
-	print(str(doc_dicts["CTS20001211.1300.0012"].sentences[1].relation_mentions[0].arg1.char_e))
-	print(doc_dicts["CTS20001211.1300.0012"].sentences[1].text[19:20+1])
+# 	print(len(doc_dicts))
+# 	print(doc_dicts["CTS20001211.1300.0012"].sentences[1].text)
+# 	print(doc_dicts["CTS20001211.1300.0012"].sentences[1].char_b)
+# 	print(str(doc_dicts["CTS20001211.1300.0012"].sentences[1].relation_mentions[0].arg1.text))
+# 	print(str(doc_dicts["CTS20001211.1300.0012"].sentences[1].relation_mentions[0].arg1.char_b))
+# 	print(str(doc_dicts["CTS20001211.1300.0012"].sentences[1].relation_mentions[0].arg1.char_e))
+# 	print(doc_dicts["CTS20001211.1300.0012"].sentences[1].text[19:20+1])
