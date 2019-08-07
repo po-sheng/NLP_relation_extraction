@@ -1,0 +1,257 @@
+Sentence,Two_Entity,Predict,Label,idx
+[MASK] [MASK] [MASK] is with the u . k . forces in southern [MASK] . [SEP] greg mil ##am [SEP] iraq,"[[[MASK], [MASK], [MASK]], [[MASK]]]",PHYS-lr,NONE,19299
+no one in the british [MASK] [MASK] is willing to take any risks . [SEP] forces [SEP] here,"[[[MASK]], [[MASK]]]",PHYS-lr,NONE,19485
+"other p . o . w . s from iraq after they were captured and released , that dramatic release that sunday morning when they were picked up by a squadron of marines [MASK] had wanted wandered in a [MASK] in baghdad and were told where they were being kept . [SEP] who [SEP] town","[[[MASK]], [[MASK]]]",PHYS-lr,NONE,20127
+they ' re expecting a total at this particular [MASK] near the iraqi [MASK] of 300 sort ##ies in a 24 - hour period ending today according to the air force total from all the bases and there are more than 30 bases in 12 different countries in the middle east according to the pentagon . [SEP] base [SEP] border,"[[[MASK]], [[MASK]]]",PHYS-lr,NONE,38385
+"gary tu ##chman in an air [MASK] near the iraq [MASK] , thanks very much , gary tu ##chman . [SEP] base [SEP] border","[[[MASK]], [[MASK]]]",PHYS-lr,NONE,38437
+"[MASK] [MASK] [MASK] in an air [MASK] near the iraq border , thanks very much , gary tu ##chman . [SEP] gary tu ##chman [SEP] base","[[[MASK], [MASK], [MASK]], [[MASK]]]",PHYS-lr,NONE,38442
+[MASK] visited all their [MASK] . [SEP] i [SEP] families,"[[[MASK]], [[MASK]]]",PHYS-lr,NONE,40315
+
+"also , [MASK] hosted a last ditch pre - war summit in the [MASK] [MASK] for leaders of the united states , britain and spain . [SEP] portugal [SEP] azores islands","[[[MASK]], [[MASK], [MASK]]]",PART-WHOLE-lr,NONE,45921
+
+"cnn _ eng _ 2003 ##0 ##42 ##4 _ 113 ##54 ##9 . 11 news story 2003 - 04 - 24 13 : 00 : 00 some [MASK] [MASK] [MASK] . [MASK] have not had a chance to call home since they were deployed for duty in "" operation iraqi freedom . "" [SEP] u . s [SEP] troops","[[[MASK], [MASK], [MASK]], [[MASK]]]",PER-SOC-lr,NONE,16580
+[MASK] next [MASK] this morning faced 100 lashes for prem ##ari ##tal sex in pakistan . [SEP] our [SEP] guest,"[[[MASK]], [[MASK]]]",PER-SOC-lr,NONE,21436
+"ap ##w _ eng _ 2003 ##0 ##41 ##7 . 05 ##55 news story 2003 ##0 ##41 ##7 u . s . troops capture saddam ' s half brother , stop major bank robbery in capital baghdad , iraq ( ap ) american commandos captured a half brother of saddam hussein on thursday , the latest success in a campaign to round up [MASK] [MASK] from the former [MASK] . [SEP] insider ##s [SEP] regime","[[[MASK], [MASK]], [[MASK]]]",PER-SOC-lr,NONE,30731
+"a u . s . intelligence official , speaking on condition of an ##ony ##mity , said bar ##zan ibrahim had been a presidential adviser to saddam ' s regime since 1998 , but had a shaky relationship with his half brother and was not [MASK] of the regime ' s inner [MASK] . [SEP] part [SEP] circle","[[[MASK]], [[MASK]]]",PER-SOC-lr,NONE,30956
+
+"in paris , the french media group said parent company chairman jean - rene four ##tou will replace dil ##ler as [MASK] and chief executive of us [MASK] . [SEP] chairman [SEP] unit","[[[MASK]], [[MASK]]]",ORG-AFF-lr,NONE,49952
+
+"hari ##ri submitted his resignation during a 10 - minute meeting with the head of state at the [MASK] [MASK] [MASK] presidential [MASK] , outside the capital . [SEP] ba ##ab ##da [SEP] palace","[[[MASK], [MASK], [MASK]], [[MASK]]]",ART-lr,NONE,12443
+the job of these royal [MASK] is to clear this and many other mountains of armament ##s and destroy [MASK] . [SEP] engineers [SEP] them,"[[[MASK]], [[MASK]]]",ART-lr,NONE,19435
+"those pilots were captured on march 24th , after their [MASK] [MASK] went down in iraqi territory . [SEP] apache [SEP] helicopter","[[[MASK]], [[MASK]]]",ART-lr,NONE,20461
+ku ##rds said 18 of [MASK] [MASK] died in the mistaken u . s . air strike . [SEP] their [SEP] own,"[[[MASK]], [[MASK]]]",ART-lr,NONE,23902
+
+"sanders no , the point i made , k ##hom ##ein ##i came about because we put a brutal dictator , the [MASK] of [MASK] , in power . [SEP] shah [SEP] iran","[[[MASK]], [[MASK]]]",GEN-AFF-lr,NONE,28223
+
+"up next for investigators , to try to search sediment on the bottom of the pond located just outside [MASK] [MASK] , not far from washington , [MASK] [MASK] [MASK] . it ' s part of the investigation into the deadly ant ##hra ##x attacks in the fall of 2001 in which five people were killed . [SEP] fred ##rick [SEP] d . c","[[[MASK], [MASK]], [[MASK], [MASK], [MASK]]]",PHYS-rl,NONE,3391
+
+"several hours later , dozens of israeli tanks advanced into the northern gaza strip backed by helicopters which fired at least three rockets in the ja ##bal ##iya area , palestinian [MASK] [MASK] said . [SEP] security [SEP] sources","[[[MASK]], [[MASK]]]",PART-WHOLE-rl,NONE,8311
+"on the other hand , companies with numerous nl ##rb violations do n ' t do worse than their peers and companies [MASK] sell your typical "" sin "" products ( tobacco , [MASK] , gambling ) can be excellent investments . [SEP] that [SEP] firearms","[[[MASK]], [[MASK]]]",PART-WHOLE-rl,NONE,43138
+[MASK] [MASK] would be ai ##g ' s third life insurance unit in japan following ali ##co japan and [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] . [SEP] ge edison [SEP] ai ##g star life insurance co,"[[[MASK], [MASK]], [[MASK], [MASK], [MASK], [MASK], [MASK], [MASK]]]",PART-WHOLE-rl,NONE,49558
+"speculation has been ri ##fe that troubled vi ##ven ##di has been weighing a spin ##off or sale of its us film , television and theme [MASK] [MASK] as part of its restructuring . [SEP] park [SEP] operations","[[[MASK]], [[MASK]]]",PART-WHOLE-rl,NONE,50081
+
+meanwhile coalition officials in iraq insisted plans for an [MASK] [MASK] were still on track and russia hinted that a compromise could be imminent on a un draft resolution to lift economic sanctions on iraq . [SEP] iraqi [SEP] government,"[[[MASK]], [[MASK]]]",ORG-AFF-rl,NONE,10862
+[MASK] [MASK] brief ##ed reporters who refused to comment about any activity at the airport . [SEP] pentagon [SEP] officials,"[[[MASK]], [[MASK]]]",ORG-AFF-rl,NONE,12661
+"[MASK] [MASK] [MASK] [MASK] rod sutton from indiana on the corner of a street leading to the highly sensitive imam ali shrine , one of the ho ##liest sites in the world for shia muslims . [SEP] chi ##lco ##te [SEP] sergeant","[[[MASK], [MASK], [MASK]], [[MASK]]]",ORG-AFF-rl,NONE,13746
+"this programming note , tomorrow at noon eastern i ' ll have a special interview with the [MASK] ' s top military [MASK] , the chairman of the joint chiefs of staff . [SEP] nation [SEP] officer","[[[MASK]], [[MASK]]]",ORG-AFF-rl,NONE,19249
+"some of the 40 , 000 [MASK] [MASK] are kicking up a lot of dust in the iraqi desert making sure that nothing is left behind them that could hurt them . [SEP] british [SEP] troops","[[[MASK]], [[MASK]]]",ORG-AFF-rl,NONE,19292
+the group is also claiming that islamic jihad militants are already inside iraq to carry out attacks against u . s . and [MASK] [MASK] . [SEP] british [SEP] forces,"[[[MASK]], [[MASK]]]",ORG-AFF-rl,NONE,21360
+""" the two leaders discussed the upcoming g - 8 meeting , us - canada ( relations ) and other international issues of concern , "" [MASK] [MASK] ari fl ##eis ##cher said days before the june 1 - 3 summit , to be held in france . [SEP] bush [SEP] spokesman","[[[MASK]], [[MASK]]]",ORG-AFF-rl,NONE,21546
+"the information comes from a single source , an interview with a former [MASK] [MASK] [MASK] who says she does not remember the intern ' s last game . [SEP] kennedy [SEP] staff ##er","[[[MASK]], [[MASK], [MASK]]]",ORG-AFF-rl,NONE,32917
+some suggested that [MASK] [MASK] vladimir putin will now be scrambling to contain the damage to his once - bud ##ding friendship with us president george w . bush because he was poorly advised by his intelligence and defense aide ##s . [SEP] russian [SEP] president,"[[[MASK]], [[MASK]]]",ORG-AFF-rl,NONE,51639
+
+"a majority of [MASK] are coming from - - ( un ##int ##elli ##gible ) on this box , but [MASK] and france . [SEP] these [SEP] jordan","[[[MASK]], [[MASK]]]",ART-rl,NONE,3982
+"i mean do you know ( un ##int ##elli ##gible ) ban ##ham i ' m not too sure but judging by some of this , [MASK] ' s been here quite a long time so whether it ' s been used recently by [MASK] - there was an intel upbeat saying that they were possibly coming back to try and get this to use against them . [SEP] it [SEP] them","[[[MASK]], [[MASK]]]",ART-rl,NONE,19400
+"well , as coalition forces push north , they are encounter ##ing a unique problem of combat , getting rid of the [MASK] captured from the [MASK] . [SEP] weapons [SEP] enemy","[[[MASK]], [[MASK]]]",ART-rl,NONE,38476
+"i mean do you know ( un ##int ##elli ##gible ) ban ##ham i ' m not too sure but judging by some of this , it ' s been here quite a long time so whether [MASK] ' s been used recently by [MASK] - there was an intel upbeat saying that they were possibly coming back to try and get this to use against them . [SEP] it [SEP] them","[[[MASK]], [[MASK]]]",ART-rl,NONE,38597
+
+[MASK] [MASK] say 17 people have been killed and 18 wounded over the past 2 days . [SEP] hospital [SEP] officials,"[[[MASK]], [[MASK]]]",GEN-AFF-rl,NONE,49232
+hospital [MASK] say 17 [MASK] have been killed and 18 wounded over the past 2 days . [SEP] officials [SEP] people,"[[[MASK]], [[MASK]]]",GEN-AFF-rl,NONE,49233
+
+"[MASK] [MASK] of [MASK] [MASK] , new york , writes , "" how can bush say he ' s for democracy ? [SEP] david horn [SEP] long island","[[[MASK], [MASK]], [[MASK], [MASK]]]",NONE,PHYS-lr,2625
+"auburn did that with class and dignity , they won every game , faced down every challenge , and made every auburn [MASK] in the [MASK] and the world proud . [SEP] fan [SEP] country","[[[MASK]], [[MASK]]]",NONE,PHYS-lr,3619
+"auburn did that with class and dignity , they won every game , faced down every challenge , and made every auburn [MASK] in the country and the [MASK] proud . [SEP] fan [SEP] world","[[[MASK]], [[MASK]]]",NONE,PHYS-lr,3620
+""" usa today "" says the [MASK] were dismissed for allegedly taking off all or most of their clothes in the [MASK] . [SEP] pilots [SEP] cockpit","[[[MASK]], [[MASK]]]",NONE,PHYS-lr,3671
+"u . s . sources tell cnn [MASK] [MASK] [MASK] [MASK] [MASK] was captured about 50 miles west of [MASK] . [SEP] mohammed "" abu "" abbas [SEP] baghdad","[[[MASK], [MASK], [MASK], [MASK], [MASK]], [[MASK]]]",NONE,PHYS-lr,3700
+"but [MASK] [MASK] [MASK] , back in [MASK] , has breaking news - - judy . [SEP] judy wood ##ruff [SEP] washington","[[[MASK], [MASK], [MASK]], [[MASK]]]",NONE,PHYS-lr,5427
+u . s . officials believe za ##r ##qa ##wi planned the assassination of u . s . diplomat [MASK] [MASK] in [MASK] last october . [SEP] lawrence foley [SEP] jordan,"[[[MASK], [MASK]], [[MASK]]]",NONE,PHYS-lr,9988
+"[MASK] , who was ousted in a military - backed popular revolt in january 2001 , has been detained for almost two years at the [MASK] [MASK] [MASK] [MASK] in metro manila on pl ##under charges . [SEP] estrada [SEP] veterans memorial medical center","[[[MASK]], [[MASK], [MASK], [MASK], [MASK]]]",NONE,PHYS-lr,13018
+national security correspondent [MASK] [MASK] [MASK] joins us live from [MASK] . [SEP] david en ##sor [SEP] washington,"[[[MASK], [MASK], [MASK]], [[MASK]]]",NONE,PHYS-lr,16339
+"and i often told myself - - i said that , if i ever get used to this , [MASK] should n ' t be [MASK] . [SEP] i [SEP] here","[[[MASK]], [[MASK]]]",NONE,PHYS-lr,17028
+"crowley ( voice - over ) [MASK] [MASK] , cnn , [MASK] . [SEP] candy crowley [SEP] washington","[[[MASK], [MASK]], [[MASK]]]",NONE,PHYS-lr,17033
+"renowned as the world ' s first woman explorer [MASK] has reached the [MASK] , the antarctica and mount everest , lee has made immense contributions toward polar exploration over the past 20 years . [SEP] who [SEP] arctic","[[[MASK]], [[MASK]]]",NONE,PHYS-lr,19985
+"renowned as the world ' s first woman explorer [MASK] has reached the arctic , the [MASK] and mount everest , lee has made immense contributions toward polar exploration over the past 20 years . [SEP] who [SEP] antarctica","[[[MASK]], [[MASK]]]",NONE,PHYS-lr,19986
+"renowned as the world ' s first woman explorer [MASK] has reached the arctic , the antarctica and [MASK] [MASK] , lee has made immense contributions toward polar exploration over the past 20 years . [SEP] who [SEP] mount everest","[[[MASK]], [[MASK], [MASK]]]",NONE,PHYS-lr,19987
+"so [MASK] goes down the [MASK] , and you can see once that ' s called clear , straight trigger finger , in case there ' s any sympathetic muscle tightening , there ' s no problem . [SEP] he [SEP] hallway","[[[MASK]], [[MASK]]]",NONE,PHYS-lr,22683
+arizona does n ' t use it because one [MASK] of indians stretches into three [MASK] . [SEP] tribe [SEP] states,"[[[MASK]], [[MASK]]]",NONE,PHYS-lr,35124
+no one in the british [MASK] [MASK] is willing to take any risks . [SEP] forces [SEP] here,"[[[MASK]], [[MASK]]]",NONE,PHYS-lr,38728
+also one [MASK] he was afraid was going to leave the [MASK] and spill the beans on him . [SEP] friend [SEP] country,"[[[MASK]], [[MASK]]]",NONE,PHYS-lr,39381
+"in 1994 , i was a graduate [MASK] in [MASK] . [SEP] student [SEP] boston","[[[MASK]], [[MASK]]]",NONE,PHYS-lr,39831
+"[MASK] [MASK] [MASK] [MASK] [MASK] , 23 , was found thursday in a pool of blood inside her small white [MASK] in ski ##dm ##ore , a town in northwest missouri . [SEP] bobbie jo st ##inn ##ett [SEP] home","[[[MASK], [MASK], [MASK], [MASK], [MASK]], [[MASK]]]",NONE,PHYS-lr,41723
+we ' re trying to get ah ##old of our [MASK] in [MASK] to give us the latest . [SEP] reporters [SEP] jerusalem,"[[[MASK]], [[MASK]]]",NONE,PHYS-lr,48769
+the [MASK] [MASK] is accused of command ##eering the bus in the north german [MASK] of bremen and holding 16 people hostage during a 75 - mile police chase down the auto ##bahn . [SEP] gun ##man [SEP] city,"[[[MASK], [MASK]], [[MASK]]]",NONE,PHYS-lr,49688
+"ne ##go ##tia ##tors say he demanded the release of four prisoners , including ram ##zi bin ##als ##hi ##bh , a september 11th [MASK] app ##re ##hend ##ed last year in [MASK] . [SEP] suspect [SEP] pakistan","[[[MASK]], [[MASK]]]",NONE,PHYS-lr,49714
+they say their [MASK] today with the iraqi republican guard units as part of a pro ##t ##wo - pro ##nged advance on the [MASK] . [SEP] forces [SEP] city,"[[[MASK]], [[MASK]]]",NONE,PHYS-lr,50293
+"[MASK] [MASK] [MASK] [MASK] , cnn , [MASK] [MASK] , virginia . [SEP] jeanne me ##ser ##ve [SEP] fairfax county","[[[MASK], [MASK], [MASK], [MASK]], [[MASK], [MASK]]]",NONE,PHYS-lr,51144
+"[MASK] ' ve had an absolutely terrific story , pushing forward north toward [MASK] . [SEP] we [SEP] baghdad","[[[MASK]], [[MASK]]]",NONE,PHYS-lr,52355
+most of the ad ##nan division of the republican guard relocated from the [MASK] [MASK] [MASK] to the ti ##kr ##it area shortly before the war began . [SEP] mo ##sul [SEP] area,"[[[MASK], [MASK]], [[MASK]]]",NONE,PHYS-lr,57249
+most of the ad ##nan division of the republican guard relocated from the mo ##sul area to the [MASK] [MASK] [MASK] [MASK] shortly before the war began . [SEP] ti ##kr ##it [SEP] area,"[[[MASK], [MASK], [MASK]], [[MASK]]]",NONE,PHYS-lr,57255
+"[MASK] arrived in [MASK] [MASK] on saturday , when he also briefly met german chancellor gerhard sc ##hr ##oed ##er , whose opposition to the iraq war had sour ##ed his relationship with washington , at a dinner hosted by putin . [SEP] bush [SEP] saint petersburg","[[[MASK]], [[MASK], [MASK]]]",NONE,PHYS-lr,60034
+
+[MASK] ' d be the 11th killer put to death in [MASK] this year . [SEP] he [SEP] texas,"[[[MASK]], [[MASK]]]",PART-WHOLE-lr,PHYS-lr,2856
+"( end video ##ta ##pe ) wood ##ruff remarkable interviews and a reminder that what these [MASK] and women are going through right now in [MASK] , they will remember for the rest of their lives . [SEP] men [SEP] iraq","[[[MASK]], [[MASK]]]",PART-WHOLE-lr,PHYS-lr,17043
+"( end video ##ta ##pe ) wood ##ruff remarkable interviews and a reminder that what these men and [MASK] are going through right now in [MASK] , they will remember for the rest of their lives . [SEP] women [SEP] iraq","[[[MASK]], [[MASK]]]",PART-WHOLE-lr,PHYS-lr,17046
+
+[MASK] was sentenced in an ste ##n shah to 124 years in [MASK] . [SEP] he [SEP] prison,"[[[MASK]], [[MASK]]]",ART-lr,PHYS-lr,26296
+"there was fierce fighting in [MASK] [MASK] , to the south of [MASK] , where desperate iraqi ##s armed with rifles charged tanks in a suicide raid . [SEP] ku ##t [SEP] baghdad","[[[MASK], [MASK]], [[MASK]]]",ART-lr,PHYS-lr,29749
+edward lu and [MASK] [MASK] [MASK] [MASK] of russia will spend the next six months in the space [MASK] . [SEP] yuri male ##nche ##nko [SEP] station,"[[[MASK], [MASK], [MASK], [MASK]], [[MASK]]]",ART-lr,PHYS-lr,34113
+"separately , vice president [MASK] shared his thoughts in a speech in [MASK] [MASK] . [SEP] cheney [SEP] new orleans","[[[MASK]], [[MASK], [MASK]]]",ART-lr,PHYS-lr,34174
+"according to other reports reaching here , five syrian bus passengers were killed and 10 [MASK] were injured on sunday morning when a us missile hit the bus they were traveling in near the iraqi [MASK] . [SEP] others [SEP] border","[[[MASK]], [[MASK]]]",ART-lr,PHYS-lr,49453
+to cnn ' s [MASK] [MASK] at [MASK] [MASK] [MASK] . [SEP] patty davis [SEP] reagan national airport,"[[[MASK], [MASK]], [[MASK], [MASK], [MASK]]]",ART-lr,PHYS-lr,51401
+and one group of sailors is getting letters from elementary school [MASK] in [MASK] [MASK] . [SEP] children [SEP] north carolina,"[[[MASK]], [[MASK], [MASK]]]",ART-lr,PHYS-lr,56262
+"bush and [MASK] were scheduled to leave straight after their talks for the group of eight summit of the largest industrial ##ised nations in [MASK] [MASK] , france . [SEP] putin [SEP] ev ##ian","[[[MASK]], [[MASK], [MASK]]]",ART-lr,PHYS-lr,60068
+"[MASK] and putin were scheduled to leave straight after their talks for the group of eight summit of the largest industrial ##ised nations in [MASK] [MASK] , france . [SEP] bush [SEP] ev ##ian","[[[MASK]], [[MASK], [MASK]]]",ART-lr,PHYS-lr,60077
+
+the first departure ##s are already underway at [MASK] [MASK] [MASK] . [SEP] fort hood [SEP] texas,"[[[MASK], [MASK]], [[MASK]]]",NONE,PART-WHOLE-lr,7267
+the 42nd house of delegates district forms the southern [MASK] of [MASK] [MASK] . [SEP] tip [SEP] fairfax county,"[[[MASK]], [[MASK], [MASK]]]",NONE,PART-WHOLE-lr,10321
+it happened in the [MASK] of [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] about 30 miles southeast of harrisburg . [SEP] cafeteria [SEP] red lion area junior high school,"[[[MASK]], [[MASK], [MASK], [MASK], [MASK], [MASK], [MASK]]]",NONE,PART-WHOLE-lr,11655
+"estrada , who was ousted in a military - backed popular revolt in january 2001 , has been detained for almost two years at the [MASK] [MASK] [MASK] [MASK] in [MASK] [MASK] on pl ##under charges . [SEP] veterans memorial medical center [SEP] metro manila","[[[MASK], [MASK], [MASK], [MASK]], [[MASK], [MASK]]]",NONE,PART-WHOLE-lr,13022
+tens of thousands of des ##ti ##tute africans try to enter spain illegally each year by crossing the per ##ilo ##us strait of gibraltar to reach the southern mainland or by sailing northwest to the [MASK] [MASK] out in the [MASK] . [SEP] canary islands [SEP] atlantic,"[[[MASK], [MASK]], [[MASK]]]",NONE,PART-WHOLE-lr,14451
+"sean patrick o ' malley , the bishop of [MASK] [MASK] , [MASK] , is expected to replace cardinal bernard law . [SEP] palm beach [SEP] florida","[[[MASK], [MASK]], [[MASK]]]",NONE,PART-WHOLE-lr,17381
+they captured an iraqi base in an unused [MASK] in the southern [MASK] of that city . [SEP] factory [SEP] suburbs,"[[[MASK]], [[MASK]]]",NONE,PART-WHOLE-lr,18274
+cnn _ eng _ 2003 ##0 ##50 ##2 _ 08 ##00 ##20 . 7 news story 2003 - 05 - 02 10 : 26 : 56 back to the scene in [MASK] [MASK] . [SEP] orlando [SEP] florida,"[[[MASK]], [[MASK]]]",NONE,PART-WHOLE-lr,20016
+"other p . o . w . s from iraq after they were captured and released , that dramatic release that sunday morning when they were picked up by a squadron of marines who had wanted wandered in a [MASK] in [MASK] and were told where they were being kept . [SEP] town [SEP] baghdad","[[[MASK]], [[MASK]]]",NONE,PART-WHOLE-lr,20130
+"a b - 1 bomber dropped four 2 , 000 - pound bombs on a building in a residential [MASK] of [MASK] after getting intelligence reports senior officials were meeting there , possibly including saddam hussein and his sons . [SEP] area [SEP] baghdad","[[[MASK]], [[MASK]]]",NONE,PART-WHOLE-lr,35534
+"20 million years ago , they were formed when india broke off what was then a [MASK] of [MASK] and slammed into that portion of asia , creating this tremendous mountain range , with of course mt . everest at 29 , 000 feet above sea level . [SEP] piece [SEP] africa","[[[MASK]], [[MASK]]]",NONE,PART-WHOLE-lr,42482
+"on sunday , marines found the mu ##tila ##ted body of what they believe was a western woman on a [MASK] in [MASK] [MASK] [MASK] during the u . s . assault on the ins ##urgent stronghold . [SEP] street [SEP] fall ##uj ##ah","[[[MASK]], [[MASK], [MASK], [MASK]]]",NONE,PART-WHOLE-lr,44547
+the bristol herald courier editorial page is urging that the back - up [MASK] be built in [MASK] [MASK] to take advantage of uv ##a - wise . [SEP] center [SEP] wise county,"[[[MASK]], [[MASK], [MASK]]]",NONE,PART-WHOLE-lr,52152
+
+"professor john lee ha ##k - shan at the [MASK] [MASK] [MASK] [MASK] of [MASK] [MASK] of canada , rebecca lee lok - s ##ze , founder and director of china polar museum foundation , humphrey leung kw ##ong - wai , president & amp ; managing director of solomon sy ##ste ##ch limited , liu sing - che ##ong , founder and managing director of pearl river hang che ##ong real estate consultants ltd , and samuel wong king - on , international deputy president of the association of chartered certified accountants . [SEP] department of mechanical engineering [SEP] mcgill university","[[[MASK], [MASK], [MASK], [MASK]], [[MASK], [MASK]]]",GEN-AFF-lr,PART-WHOLE-lr,19972
+
+"the army also handed over control of [MASK] [MASK] [MASK] crossing between the gaza strip and egypt to the palestinians , security sources said . [SEP] raf ##ah [SEP] border","[[[MASK], [MASK]], [[MASK]]]",PART-WHOLE-rl,PART-WHOLE-lr,12275
+"the army ' s entire first cal ##vary division based at [MASK] [MASK] , [MASK] , would join the quarter million u . s . forces already in the region . [SEP] fort hood [SEP] texas","[[[MASK], [MASK]], [[MASK]]]",PART-WHOLE-rl,PART-WHOLE-lr,40098
+
+"one concern these men have in the waterways of iraq is the threat of an ambush , so there are five weapon [MASK] on the special operations [MASK] . [SEP] stations [SEP] craft","[[[MASK]], [[MASK]]]",ART-rl,PART-WHOLE-lr,45509
+
+"however , there were no reports of protests against the war from the [MASK] [MASK] , many of whom are host to us military personnel . [SEP] gulf [SEP] states","[[[MASK]], [[MASK]]]",GEN-AFF-rl,PART-WHOLE-lr,60440
+
+"as a result , only about 100 girls are born for every 119 boys , because [MASK] traditionally favor [MASK] . [SEP] couples [SEP] males","[[[MASK]], [[MASK]]]",NONE,PER-SOC-lr,1048
+[MASK] [MASK] say his trial attorney did a bad job and the prosecutors improper ##ly kept african americans off his jury . [SEP] his [SEP] lawyers,"[[[MASK]], [[MASK]]]",NONE,PER-SOC-lr,2822
+can someone tell me why one of [MASK] [MASK] or family members has n ' t smacked me because of it ? [SEP] my [SEP] friends,"[[[MASK]], [[MASK]]]",NONE,PER-SOC-lr,12575
+can someone tell me why one of [MASK] friends or family [MASK] has n ' t smacked me because of it ? [SEP] my [SEP] members,"[[[MASK]], [[MASK]]]",NONE,PER-SOC-lr,12576
+turns out [MASK] ' s [MASK] flew out on the same flight as jack . [SEP] anna [SEP] husband,"[[[MASK]], [[MASK]]]",NONE,PER-SOC-lr,16728
+the news was announced thursday by [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] sunny mind ##el . [SEP] gi ##ulia ##ni [SEP] spoke ##sw ##oman,"[[[MASK], [MASK], [MASK]], [[MASK], [MASK], [MASK]]]",NONE,PER-SOC-lr,19562
+"that july , sharon os ##bourne , [MASK] [MASK] ' s long time [MASK] , wife and best friend , announced to the world that she ' d been diagnosed with colon cancer . [SEP] oz ##zy [SEP] manager","[[[MASK], [MASK]], [[MASK]]]",NONE,PER-SOC-lr,20277
+oz ##zy took time off from oz - fest to tend to [MASK] [MASK] . [SEP] his [SEP] wife,"[[[MASK]], [[MASK]]]",NONE,PER-SOC-lr,20299
+and he ' s got to be careful of his muzzle pointing at [MASK] [MASK] right here . [SEP] his [SEP] partner,"[[[MASK]], [[MASK]]]",NONE,PER-SOC-lr,22644
+reporter : who was that nice man stroll ##ing with [MASK] [MASK] ? [SEP] his [SEP] wife,"[[[MASK]], [[MASK]]]",NONE,PER-SOC-lr,36574
+"romantic ##ly stroll ##ing with [MASK] first [MASK] on a snowy path , trend ##y leather coat , furry hat . [SEP] his [SEP] wife","[[[MASK]], [[MASK]]]",NONE,PER-SOC-lr,36579
+[MASK] ' s 1979 marriage to alan ##a hamilton lasted five years and produced two [MASK] . [SEP] stewart [SEP] children,"[[[MASK]], [[MASK]]]",NONE,PER-SOC-lr,36747
+everyone is praying for you and i just want you to come home safe and soon so you could see [MASK] new [MASK] . [SEP] our [SEP] baby,"[[[MASK]], [[MASK]]]",NONE,PER-SOC-lr,39177
+"on a less - sarcastic note , i pray for the [MASK] of the 23 - year - old [MASK] . [SEP] family [SEP] woman","[[[MASK]], [[MASK]]]",NONE,PER-SOC-lr,41869
+"it seems that [MASK] associated with this special "" [MASK] "" greg anderson is coming up dirty . [SEP] anyone [SEP] trainer","[[[MASK]], [[MASK]]]",NONE,PER-SOC-lr,43285
+"[MASK] [MASK] ' s [MASK] [MASK] [MASK] [MASK] says sharon was quote , "" vicious ##ly assaulted and treated at a hospital . "" [SEP] os ##bourne [SEP] spoke ##sw ##ome ##n","[[[MASK], [MASK]], [[MASK], [MASK], [MASK], [MASK]]]",NONE,PER-SOC-lr,44978
+"` ` [MASK] [MASK] are carrying out inspections , ' ' he said . [SEP] our [SEP] colleagues","[[[MASK]], [[MASK]]]",NONE,PER-SOC-lr,48702
+
+bet ` f ##ow central command chief gen . tommy franks and [MASK] field [MASK] face a big decision _ whether to rush into the city of 5 million where hussein ' s regime has gathered its most - trusted forces or wait and see if the war can be won without paying the price of street - to - street urban fighting . [SEP] his [SEP] commanders,"[[[MASK]], [[MASK]]]",ORG-AFF-rl,PER-SOC-lr,21966
+"even as the secretary of homeland security was putting [MASK] [MASK] on high alert last month , a 30 - foot cuban patrol boat with four heavily armed men landed on american shores , utterly und ##ete ##cted by the coast guard secretary ridge now leads . [SEP] his [SEP] people","[[[MASK]], [[MASK]]]",ORG-AFF-rl,PER-SOC-lr,29020
+"by the summer of 2000 , [MASK] [MASK] [MASK] [MASK] and [MASK] [MASK] had grown increasingly at odds with each other , with bar ##gh ##out ##i accusing ara ##fat ' s administration of corruption and his security services of human rights violations , and ara ##fat was planning to fire him shortly . [SEP] bar ##gh ##out ##i [SEP] ara ##fat","[[[MASK], [MASK], [MASK], [MASK]], [[MASK], [MASK]]]",ORG-AFF-rl,PER-SOC-lr,47686
+
+"not only is she developing the sal ##aman ##der inn & amp ; spa in fa ##u ##qui ##er county , and not only is she a major philanthropist , but she was a [MASK] [MASK] [MASK] of of [MASK] [MASK] [MASK] with her ex - husband robert l . johnson . [SEP] co - founder [SEP] black entertainment television","[[[MASK], [MASK], [MASK]], [[MASK], [MASK], [MASK]]]",NONE,ORG-AFF-lr,2915
+that ' s why you played a four - loss team for [MASK] [MASK] title this year . [SEP] your [SEP] conference,"[[[MASK]], [[MASK]]]",NONE,ORG-AFF-lr,3593
+"joining us now to discuss that is rob sa ##bat ##i , ed a a an adjunct [MASK] at [MASK] [MASK] . [SEP] professor [SEP] georgetown university","[[[MASK]], [[MASK], [MASK]]]",NONE,ORG-AFF-lr,7594
+t ##12 : 33 : 00 just wanted to add this to the discussion - i recently received this press release from the [MASK] [MASK] [MASK] [MASK] [MASK] in nova - might this be the only competitive race this year ? ! ? ? ! [SEP] we ##rk ##hei ##ser [SEP] campaign,"[[[MASK], [MASK], [MASK], [MASK]], [[MASK]]]",NONE,ORG-AFF-lr,10188
+no democrat with any respect for [MASK] un ##rave ##ling [MASK] would ever mention howard dean ' s name again . [SEP] his [SEP] party,"[[[MASK]], [[MASK]]]",NONE,ORG-AFF-lr,11495
+"dil ##ler has served as head of paramount and twentieth century fox , where [MASK] helped launch the fox television [MASK] . [SEP] he [SEP] network","[[[MASK]], [[MASK]]]",NONE,ORG-AFF-lr,17314
+"launched in 1996 , the biennial alumni selection is jointly organized by poly ##u and the federation of poly ##u alumni associations for the fourth time , so as to accord public recognition to outstanding [MASK] of the [MASK] . [SEP] graduates [SEP] university","[[[MASK]], [[MASK]]]",NONE,ORG-AFF-lr,20014
+"[MASK] played a total of 15 years with [MASK] , green bay and carolina . [SEP] white [SEP] philadelphia","[[[MASK]], [[MASK]]]",NONE,ORG-AFF-lr,21230
+"rep . [MASK] [MASK] [MASK] [MASK] [MASK] , r - [MASK] [MASK] , said the bill reminded him of a sign he saw on a constituent ' s house while campaigning door - to - door . [SEP] jeff ko ##tt ##kam ##p [SEP] cape coral","[[[MASK], [MASK], [MASK], [MASK], [MASK]], [[MASK], [MASK]]]",NONE,ORG-AFF-lr,37580
+"[MASK] [MASK] [MASK] [MASK] , [MASK] , fairfax county , virginia . [SEP] jeanne me ##ser ##ve [SEP] cnn","[[[MASK], [MASK], [MASK], [MASK]], [[MASK]]]",NONE,ORG-AFF-lr,51142
+"it was the army which assigned me to the [MASK] [MASK] , [MASK] [MASK] , and that was extremely fort ##uit ##ous . [SEP] 3rd squadron [SEP] 7th cavalry","[[[MASK], [MASK]], [[MASK], [MASK]]]",NONE,ORG-AFF-lr,52352
+"george papa ##nd ##re ##ou , foreign [MASK] of [MASK] , the current holder of the eu presidency , said he was in personal contact with ia ##ea director - general mohamed el ##bara ##de ##i and would follow his lead on this matter . [SEP] minister [SEP] greece","[[[MASK]], [[MASK]]]",NONE,ORG-AFF-lr,57417
+
+"if the ceo is new , i also look at the performance of the [MASK] ' s previous [MASK] . [SEP] ceo [SEP] company","[[[MASK]], [[MASK]]]",ORG-AFF-rl,ORG-AFF-lr,48595
+
+""" usa today "" says the pilots were dismissed for allegedly taking off all or most of [MASK] clothes in the [MASK] . [SEP] their [SEP] cockpit","[[[MASK]], [[MASK]]]",NONE,ART-lr,3673
+"although the crossing has , in principle , been open for movement between the two territories - - while being frequently closed by israeli for reasons rarely explained - - the [MASK] [MASK] has been manned by israel for more than two years . [SEP] palestinian [SEP] section","[[[MASK]], [[MASK]]]",NONE,ART-lr,12364
+they ' re expecting a total at this particular base near the iraqi border of 300 sort ##ies in a 24 - hour period ending today according to the [MASK] [MASK] total from all the [MASK] and there are more than 30 bases in 12 different countries in the middle east according to the pentagon . [SEP] air force [SEP] bases,"[[[MASK], [MASK]], [[MASK]]]",NONE,ART-lr,38415
+[MASK] armed with automatic [MASK] stood by to prevent row ##dine ##ss . [SEP] police [SEP] weapons,"[[[MASK]], [[MASK]]]",NONE,ART-lr,39782
+
+andrea ash from [MASK] [MASK] in [MASK] has this story of chicken that decided to take a new day job . [SEP] ke ##zi [SEP] portland,"[[[MASK], [MASK]], [[MASK]]]",NONE,GEN-AFF-lr,11598
+[MASK] ' m [MASK] born . [SEP] i [SEP] lebanese,"[[[MASK]], [[MASK]]]",NONE,GEN-AFF-lr,17411
+but michael o ' han ##lon of the [MASK] [MASK] [MASK] in [MASK] said the apparent collapse of republican guard resistance could de ##pr ##ive hussein of much of the wall ##op he was counting on in the city . [SEP] brook ##ings institution [SEP] washington,"[[[MASK], [MASK], [MASK]], [[MASK]]]",NONE,GEN-AFF-lr,22379
+"therefore , was n ' t dick cheney , as the ceo of hall ##ib ##urt ##on , wrong to be selling oil ##field equipment to the [MASK] of [MASK] in 1988 ? [SEP] butcher [SEP] baghdad","[[[MASK]], [[MASK]]]",NONE,GEN-AFF-lr,28054
+"in [MASK] home [MASK] of indiana , the committee ' s chairman , republican senator richard lu ##gar . [SEP] his [SEP] state","[[[MASK]], [[MASK]]]",NONE,GEN-AFF-lr,31384
+"and here in washington , democratic senator [MASK] [MASK] of [MASK] . [SEP] christopher dodd [SEP] connecticut","[[[MASK], [MASK]], [[MASK]]]",NONE,GEN-AFF-lr,31403
+and what ' s better is that auburn gets to play one of the three hottest [MASK] in the [MASK] in my opinion . [SEP] teams [SEP] country,"[[[MASK]], [[MASK]]]",NONE,GEN-AFF-lr,32083
+edward lu and [MASK] [MASK] [MASK] [MASK] of [MASK] will spend the next six months in the space station . [SEP] yuri male ##nche ##nko [SEP] russia,"[[[MASK], [MASK], [MASK], [MASK]], [[MASK]]]",NONE,GEN-AFF-lr,34112
+[MASK] is also charged with immigration offenses for having a [MASK] citizenship since 1993 . [SEP] he [SEP] malaysian,"[[[MASK]], [[MASK]]]",NONE,GEN-AFF-lr,35875
+both aircraft fly at 125 miles per hour gingerly over [MASK] [MASK] . [SEP] enemy [SEP] land,"[[[MASK]], [[MASK]]]",NONE,GEN-AFF-lr,38260
+so ##dom ##y is a crime in this predominantly [MASK] southeast asian [MASK] . [SEP] muslim [SEP] country,"[[[MASK]], [[MASK]]]",NONE,GEN-AFF-lr,39667
+"[MASK] [MASK] [MASK] [MASK] , 36 , of [MASK] [MASK] , kan . , was arrested later friday and charged with kidnapping resulting in death . [SEP] lisa m . montgomery [SEP] mel ##vern","[[[MASK], [MASK], [MASK], [MASK]], [[MASK], [MASK]]]",NONE,GEN-AFF-lr,41707
+""" under the terms of the settlement agreement , so ##the ##by ' s and christie ' s will each pay 20 million dollars , "" said so ##the ##by ' s , [MASK] operates in 34 [MASK] . [SEP] which [SEP] countries","[[[MASK]], [[MASK]]]",NONE,GEN-AFF-lr,42609
+he joins us now from london to talk about rebuilding [MASK] [MASK] . [SEP] his [SEP] country,"[[[MASK]], [[MASK]]]",NONE,GEN-AFF-lr,46807
+suicide bombings and guerrilla attacks carried out by [MASK] and foreign terrorists based around [MASK] have escalated to alarm ##ing levels particularly during rama ##dan . [SEP] insurgents [SEP] baghdad,"[[[MASK]], [[MASK]]]",NONE,GEN-AFF-lr,62710
+suicide bombings and guerrilla attacks carried out by insurgents and foreign [MASK] based around [MASK] have escalated to alarm ##ing levels particularly during rama ##dan . [SEP] terrorists [SEP] baghdad,"[[[MASK]], [[MASK]]]",NONE,GEN-AFF-lr,62711
+
+"virginia tech is talented , very athletic and one of the most well coached [MASK] in the [MASK] and they will come to play on january 3rd . [SEP] teams [SEP] country","[[[MASK]], [[MASK]]]",PART-WHOLE-lr,GEN-AFF-lr,32093
+"the company is also considering fran ##chi ##sing the daily planet within australia with likely venues in perth , brisbane , sydney ' s western suburbs and a second [MASK] in [MASK] . [SEP] venue [SEP] melbourne","[[[MASK]], [[MASK]]]",PART-WHOLE-lr,GEN-AFF-lr,35009
+they killed a lot of our [MASK] in [MASK] [MASK] [MASK] [MASK] but i feel bad for them too . [SEP] people [SEP] cha ##mc ##ham ##al,"[[[MASK]], [[MASK], [MASK], [MASK], [MASK]]]",PART-WHOLE-lr,GEN-AFF-lr,38842
+"so that means we can bring more pictures , more information about mars back to the [MASK] of the [MASK] , in this particular landing opportunity . [SEP] people [SEP] earth","[[[MASK]], [[MASK]]]",PART-WHOLE-lr,GEN-AFF-lr,55259
+that data will be sent back to the [MASK] [MASK] [MASK] in [MASK] . [SEP] european space agency [SEP] germany,"[[[MASK], [MASK], [MASK]], [[MASK]]]",PART-WHOLE-lr,GEN-AFF-lr,58146
+
+"the single largest political donor in the second half of 2004 was [MASK] [MASK] [MASK] [MASK] , of the [MASK] , who made five contributions totaling $ 320 , 490 . [SEP] sheila c . johnson [SEP] plains","[[[MASK], [MASK], [MASK], [MASK]], [[MASK]]]",ORG-AFF-lr,GEN-AFF-lr,2865
+"but as for the assault weapons ban issue , the man accused of the brutal killings , [MASK] [MASK] [MASK] [MASK] of [MASK] [MASK] [MASK] , min ##n , used a russian - built sai ##ga 7 . 62 mm , sk ##s semi ##au ##tom ##atic rifle . [SEP] cha ##i van ##g [SEP] st . paul","[[[MASK], [MASK], [MASK], [MASK]], [[MASK], [MASK], [MASK]]]",ORG-AFF-lr,GEN-AFF-lr,27649
+he was a representative to the [MASK] [MASK] in [MASK] from 1989 to 1998 . [SEP] united nations [SEP] geneva,"[[[MASK], [MASK]], [[MASK]]]",ORG-AFF-lr,GEN-AFF-lr,30972
+
+"july 23rd , 1999 - - there was a massive drug bust in a pre ##dom ##inate ##ly african - [MASK] [MASK] in tu ##lia . [SEP] american [SEP] neighborhood","[[[MASK]], [[MASK]]]",ART-lr,GEN-AFF-lr,42715
+
+"meeting in the biblical [MASK] of the prophet [MASK] , delegates from iraq ' s many factions discussed the role of religion in the future government and ways to rebuild the country . [SEP] birthplace [SEP] abraham","[[[MASK]], [[MASK]]]",NONE,PHYS-rl,5805
+"meeting in the biblical [MASK] of the prophet abraham , [MASK] from iraq ' s many factions discussed the role of religion in the future government and ways to rebuild the country . [SEP] birthplace [SEP] delegates","[[[MASK]], [[MASK]]]",NONE,PHYS-rl,5807
+"from the cnn [MASK] in atlanta , [MASK] ' m fred fred . [SEP] center [SEP] i","[[[MASK]], [[MASK]]]",NONE,PHYS-rl,26501
+reporter : friday night in the [MASK] [MASK] and a [MASK] is about to lose his life . [SEP] gaza strip [SEP] journalist,"[[[MASK], [MASK]], [[MASK]]]",NONE,PHYS-rl,37926
+
+"there was fierce fighting in ku ##t , to the south of baghdad , [MASK] desperate [MASK] [MASK] armed with rifles charged tanks in a suicide raid . [SEP] where [SEP] iraqi ##s","[[[MASK]], [[MASK], [MASK]]]",ART-lr,PHYS-rl,29750
+
+"the message from the israeli government is that its soldiers are not targeting journalists , but that journalists who travel to places [MASK] there could be live fire exchange between israeli [MASK] and palestinian gunmen have a responsibility to take greater precautions . [SEP] where [SEP] forces","[[[MASK]], [[MASK]]]",ART-rl,PHYS-rl,38128
+allied successes were marred by the collision of two royal navy helicopters over the [MASK] [MASK] in which all six british crew [MASK] and one american were killed . [SEP] persian gulf [SEP] members,"[[[MASK], [MASK]], [[MASK]]]",ART-rl,PHYS-rl,40808
+allied successes were marred by the collision of two royal navy helicopters over the [MASK] [MASK] in which all six british crew members and one [MASK] were killed . [SEP] persian gulf [SEP] american,"[[[MASK], [MASK]], [[MASK]]]",ART-rl,PHYS-rl,40809
+
+but some [MASK] [MASK] [MASK] [MASK] boycott ##ed the meeting and thousands protested nearby . [SEP] shi ##ite muslim [SEP] groups,"[[[MASK], [MASK], [MASK]], [[MASK]]]",NONE,PART-WHOLE-rl,5815
+"under the 1993 oslo accord ##s , which granted a measure of autonomy to the palestinians , the [MASK] [MASK] [MASK] crossing with egypt was to be jointly managed by both israel and the palestinians , although israel had final control over the zone . [SEP] raf ##ah [SEP] border","[[[MASK], [MASK]], [[MASK]]]",NONE,PART-WHOLE-rl,12352
+"the [MASK] [MASK] [MASK] [MASK] special [MASK] friday reset for june 16 the res ##ump ##tion of estrada ' s pl ##under case hearing , which was originally scheduled for june 2 . [SEP] sand ##igan ##bay ##an [SEP] division","[[[MASK], [MASK], [MASK], [MASK]], [[MASK]]]",NONE,PART-WHOLE-rl,13015
+"cash - strapped vi ##ven ##di wants to sell universal studios , [MASK] universal theme parks and television production [MASK] . [SEP] its [SEP] company","[[[MASK]], [[MASK]]]",NONE,PART-WHOLE-rl,17133
+they ' re expecting a total at this particular base near the [MASK] [MASK] of 300 sort ##ies in a 24 - hour period ending today according to the air force total from all the bases and there are more than 30 bases in 12 different countries in the middle east according to the pentagon . [SEP] iraqi [SEP] border,"[[[MASK]], [[MASK]]]",NONE,PART-WHOLE-rl,19211
+"gary tu ##chman in an air base near the [MASK] [MASK] , thanks very much , gary tu ##chman . [SEP] iraq [SEP] border","[[[MASK]], [[MASK]]]",NONE,PART-WHOLE-rl,19236
+"from [MASK] new york [MASK] as i was introducing a moment ago , dan fa ##gen , the environment writer for news day and dan , whitman did consider herself sort of the republican environmental ##ist . [SEP] our [SEP] bureau","[[[MASK]], [[MASK]]]",NONE,PART-WHOLE-rl,21755
+""" we want to build a little [MASK] called metropolis with a 150 - 200 room [MASK] in nevada . "" [SEP] city [SEP] hotel","[[[MASK]], [[MASK]]]",NONE,PART-WHOLE-rl,35045
+"according to other reports reaching here , five syrian bus passengers were killed and 10 others were injured on sunday morning when a us missile hit the bus they were traveling in near the [MASK] [MASK] . [SEP] iraqi [SEP] border","[[[MASK]], [[MASK]]]",NONE,PART-WHOLE-rl,49420
+
+"while they wait , the forces would try to determine where [MASK] strong points are within the [MASK] and where hussein might be , if he is still alive . [SEP] iraqi [SEP] city","[[[MASK]], [[MASK]]]",PART-WHOLE-lr,PART-WHOLE-rl,22114
+
+"those pilots were captured on march 24th , after their apache helicopter went down in [MASK] [MASK] . [SEP] iraqi [SEP] territory","[[[MASK]], [[MASK]]]",ART-lr,PART-WHOLE-rl,20453
+
+"last i remember the convention applies to countries that signed the document and the two [MASK] must have standing [MASK] with uniforms . . . . the iraqi military is at our side , the terrorists are not . [SEP] countries [SEP] armies","[[[MASK]], [[MASK]]]",GEN-AFF-rl,PART-WHOLE-rl,44599
+
+[MASK] [MASK] said they do n ' t know yet what caused their daughter ' s injuries . [SEP] her [SEP] parents,"[[[MASK]], [[MASK]]]",NONE,PER-SOC-rl,28701
+"one of [MASK] [MASK] [MASK] tells the current issue of "" time , "" magazine , quote , "" even if it ' s $ 500 billion , so what ? "" [SEP] his [SEP] aide ##s","[[[MASK]], [[MASK], [MASK]]]",NONE,PER-SOC-rl,29317
+"hunter , 34 , filed for divorce in los angeles superior court , citing ir ##re ##con ##ci ##lab ##le differences with the 58 - year - old rock star to [MASK] [MASK] has been married for nearly 13 years . [SEP] whom [SEP] she","[[[MASK]], [[MASK]]]",NONE,PER-SOC-rl,36642
+
+[MASK] [MASK] is in kuwait . [SEP] my [SEP] brother,"[[[MASK]], [[MASK]]]",PER-SOC-lr,PER-SOC-rl,56378
+
+"now , can someone get the [MASK] [MASK] [MASK] [MASK] some of those usc sweater ##s ? [SEP] auburn [SEP] cheer ##leader ##s","[[[MASK]], [[MASK], [MASK], [MASK]]]",NONE,ORG-AFF-rl,3632
+he was a se ##gration ##ist who once closed a [MASK] [MASK] owned rather han serve african - americans . [SEP] restaurant [SEP] he,"[[[MASK]], [[MASK]]]",NONE,ORG-AFF-rl,12797
+[MASK] ' s [MASK] [MASK] [MASK] [MASK] is in na ##ja ##f with the 101 ##st airborne . [SEP] cnn [SEP] ryan chi ##lco ##te,"[[[MASK]], [[MASK], [MASK], [MASK], [MASK]]]",NONE,ORG-AFF-rl,13661
+"while two [MASK] [MASK] have apparently been smashed , there are three others in the baghdad area . [SEP] guard [SEP] divisions","[[[MASK]], [[MASK]]]",NONE,ORG-AFF-rl,22417
+"i ' m joined by j . kelly mccann , [MASK] security [MASK] , a man who ' s spent a lot of time learning about urban combat . [SEP] our [SEP] analyst","[[[MASK]], [[MASK]]]",NONE,ORG-AFF-rl,22596
+"8 : 10 a . m . , abu dhabi tv broadcasts video ##ta ##pe which it says shows saddam hussein in a baghdad neighborhood last wednesday , april 9th , the day the city fell to [MASK] [MASK] . [SEP] coalition [SEP] troops","[[[MASK]], [[MASK]]]",NONE,ORG-AFF-rl,24543
+"he said 62 house members , a majority , have endorsed his bill , and supporters include attorney general charlie cr ##ist and groups representing florida sheriff ##s , police chiefs and [MASK] [MASK] . [SEP] police [SEP] officers","[[[MASK]], [[MASK]]]",NONE,ORG-AFF-rl,37569
+"the [MASK] [MASK] says the soldier his no choice , but to be there . [SEP] israeli [SEP] spokesman","[[[MASK]], [[MASK]]]",NONE,ORG-AFF-rl,38139
+"as of tuesday night , the [MASK] [MASK] [MASK] . [MASK] said the body had not been identified . [SEP] u . s [SEP] command","[[[MASK], [MASK], [MASK]], [[MASK]]]",NONE,ORG-AFF-rl,44561
+"seven iraqi ##s were killed by [MASK] [MASK] [MASK] . [MASK] , who say they were responding to sniper fire . [SEP] u . s [SEP] marines","[[[MASK], [MASK], [MASK]], [[MASK]]]",NONE,ORG-AFF-rl,49224
+""" ara ##fat ' s death means his followers may never know just how much more they may be owed , "" writes [MASK] ' s [MASK] [MASK] in "" where ' s ara ##fat ' s money ? "" [SEP] time [SEP] matt rees","[[[MASK]], [[MASK], [MASK]]]",NONE,ORG-AFF-rl,52837
+
+but [MASK] [MASK] and their superior technology have turned out to be a key factor in the fighting there . [SEP] american [SEP] troops,"[[[MASK]], [[MASK]]]",ART-lr,ORG-AFF-rl,7645
+
+they stand no chance against the m1 abrams [MASK] used by army and [MASK] . [SEP] tanks [SEP] marines,"[[[MASK]], [[MASK]]]",NONE,ART-rl,26498
+"mil ##am [MASK] , mortar ##s , all sorts of ammunition abandoned by iraqi [MASK] but there for the taking . [SEP] grenades [SEP] soldiers","[[[MASK]], [[MASK]]]",NONE,ART-rl,38662
+"mil ##am grenades , [MASK] [MASK] , all sorts of ammunition abandoned by iraqi [MASK] but there for the taking . [SEP] mortar ##s [SEP] soldiers","[[[MASK], [MASK]], [[MASK]]]",NONE,ART-rl,38664
+"if passed next november , residents would have 90 days to give up [MASK] [MASK] keep in their homes or businesses . [SEP] firearms [SEP] they","[[[MASK]], [[MASK]]]",NONE,ART-rl,50853
+inside those [MASK] rescue [MASK] [MASK] [MASK] [MASK] . [SEP] helicopters [SEP] im ##sw ##im ##mers,"[[[MASK]], [[MASK], [MASK], [MASK], [MASK]]]",NONE,ART-rl,56029
+
+"according to other reports reaching here , five syrian bus passengers were killed and 10 others were injured on sunday morning when a us missile hit the [MASK] [MASK] were traveling in near the iraqi border . [SEP] bus [SEP] they","[[[MASK]], [[MASK]]]",ART-lr,ART-rl,49445
+
+"[MASK] [MASK] say he had tried to flee into syria , but was turned away at the border . [SEP] palestinian [SEP] sources","[[[MASK]], [[MASK]]]",NONE,GEN-AFF-rl,3705
+he was handed over to coalition special forces by [MASK] [MASK] [MASK] last night . [SEP] iraqi [SEP] ku ##rds,"[[[MASK]], [[MASK], [MASK]]]",NONE,GEN-AFF-rl,24519
+"this is great news for [MASK] gun [MASK] because now to defend yourself you do n ' t have to first make sure a "" duty to retreat "" is impossible . [SEP] florida [SEP] carriers","[[[MASK]], [[MASK]]]",NONE,GEN-AFF-rl,37604
+"march 17 , 2003 - - with coleman ' s credibility under serious attack , new hearings for the [MASK] [MASK] [MASK] get under way . [SEP] tu ##lia [SEP] defendants","[[[MASK], [MASK]], [[MASK]]]",NONE,GEN-AFF-rl,42728
+"cr ##ich ##ton , 60 , is one of the [MASK] ' s wealthiest [MASK] , and has had 12 of his novels made into major hollywood movies . [SEP] world [SEP] authors","[[[MASK]], [[MASK]]]",NONE,GEN-AFF-rl,63783
+
+"out of security concerns , major travel agencies , including the china international travel service , china travel service and china youth tourism service , have temporarily suspended tours to egypt and turkey for [MASK] [MASK] . [SEP] chinese [SEP] tourists","[[[MASK]], [[MASK]]]",PART-WHOLE-rl,GEN-AFF-rl,9321
+those close to miller believe he was shot by an armored [MASK] [MASK] carrier . [SEP] israeli [SEP] personnel,"[[[MASK]], [[MASK]]]",PART-WHOLE-rl,GEN-AFF-rl,38022
+"speculation has been ri ##fe that troubled vi ##ven ##di has been weighing a spin ##off or sale of its [MASK] film , television and theme park [MASK] as part of its restructuring . [SEP] us [SEP] operations","[[[MASK]], [[MASK]]]",PART-WHOLE-rl,GEN-AFF-rl,50071
+
+his lawyers say his trial attorney did a bad job and the prosecutors improper ##ly kept [MASK] [MASK] off his jury . [SEP] african [SEP] americans,"[[[MASK]], [[MASK]]]",ORG-AFF-rl,GEN-AFF-rl,2843
+"[MASK] objected to world bank rules that required monitoring of [MASK] receiving medication , the world bank said . [SEP] russia [SEP] patients","[[[MASK]], [[MASK]]]",ORG-AFF-rl,GEN-AFF-rl,5568
+"one option under serious consideration was bush giving [MASK] [MASK] saddam hussein a final ultimatum , perhaps with a short - term deadline , in a major address next week , two senior white house officials said . [SEP] iraqi [SEP] leader","[[[MASK]], [[MASK]]]",ORG-AFF-rl,GEN-AFF-rl,51172
+
