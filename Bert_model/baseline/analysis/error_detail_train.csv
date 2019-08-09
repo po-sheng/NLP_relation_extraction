@@ -1,96 +1,134 @@
 Sentence,Two_Entity,Predict,Label,idx
-lynn morgan president of the soccer association is one of those who has the job of organizing this global event that has only got four months to get put together instead of four years as usual and she joins us from atlanta this morning .,"[[she], [atlanta]]",PHYS-lr,NONE,831
+"i will say he will come out of the burn unit in three weeks time , but he will be , you know , in kuwait until we find him really constructive plan that takes into consideration all aspects of his needs , psychological , social and future plan .","[[he], [kuwait]]",PHYS-lr,NONE,10775
 greg mil ##am is with the u . k . forces in southern iraq .,"[[greg, mil, ##am], [iraq]]",PHYS-lr,NONE,19466
+"gi ##ulia ##ni , 58 , proposed to nathan , a former nurse , during a november business trip to paris _ five months after he finalized his divorce from donna hanover after 20 years of marriage .","[[gi, ##ulia, ##ni], [paris]]",PHYS-lr,NONE,19779
+"i ' m kelly wallace , cnn , reporting from net ##any ##ahu , israel .","[[i], [net, ##any, ##ahu]]",PHYS-lr,NONE,21592
+"you might remember last week when another half - brother of saddam hussein was picked up trying to cross into syria and that time , we have been told syria has closed its border with iraq to prevent any of that ongoing .","[[brother], [border]]",PHYS-lr,NONE,33472
+"as we get a little bit closer here , in a typical scenario like this , you might very well have republican guard sniper ##s up on bal ##con ##ies like this , and possibly up on the roofs of buildings and anti - aircraft artillery or artillery en ##camp ##ments like that .","[[we], [roofs]]",PHYS-lr,NONE,36940
+"two israeli helicopter air strikes against palestinian targets , hamas targets in gaza .","[[targets], [gaza]]",PHYS-lr,NONE,37923
 they ' re expecting a total at this particular base near the iraqi border of 300 sort ##ies in a 24 - hour period ending today according to the air force total from all the bases and there are more than 30 bases in 12 different countries in the middle east according to the pentagon .,"[[base], [border]]",PHYS-lr,NONE,39060
-"gary tu ##chman in an air base near the iraq border , thanks very much , gary tu ##chman .","[[base], [border]]",PHYS-lr,NONE,39112
 "gary tu ##chman in an air base near the iraq border , thanks very much , gary tu ##chman .","[[gary, tu, ##chman], [base]]",PHYS-lr,NONE,39117
-he joins us now from london to talk about rebuilding his country .,"[[he], [london]]",PHYS-lr,NONE,47774
+"let me tell you , what trips to walter reed taught me was , that whoever thought up the term , the law of un ##int ##ended consequences it per ##tain ##s to war .","[[you], [walter, reed]]",PHYS-lr,NONE,41055
+"xi ##n _ eng _ 2003 ##0 ##6 ##10 . 02 ##9 ##9 news story 2003 ##0 ##6 ##10 us pharmaceutical company founder sentenced to 87 months in prison washington , june 10 ( xi ##nh ##ua ) sam wa ##ks ##al , founder of the us pharmaceutical company im ##cl ##one systems was sentenced to 87 months in prison tuesday for insider trading .","[[founder], [prison]]",PHYS-lr,NONE,43508
 
-"af ##p _ eng _ 2003 ##0 ##42 ##5 . 04 ##0 ##8 news story 2003 ##0 ##42 ##5 north korea nuclear bombs ##hell sparks alarm , appeals for calm by charles w ##hel ##an = ( picture , graphic ) = seoul , april 25 ( af ##p ) us allegations that north korea admitted to possessing nuclear weapons triggered alarm across asia friday and prompted appeals for calm from world capitals .","[[world], [capitals]]",PART-WHOLE-lr,NONE,1460
-"i ' m kelly wallace , cnn , reporting from net ##any ##ahu , israel .","[[net, ##any, ##ahu], [israel]]",PART-WHOLE-lr,NONE,21589
-"on another vital front , british troops thrust to the center of bas ##ra , iraq ' s second largest city , with a sense they were finally shaking saddam loyalists loose .","[[center], [city]]",PART-WHOLE-lr,NONE,24278
-"andrew lust ##er , though arrived yesterday at los angeles international airport on a commercial flight from mexico .","[[flight], [mexico]]",PART-WHOLE-lr,NONE,33520
-"anne - marie will get the couple ' s 19 - room home in new york state , which was on the market last year for 21 . 5 million dollars , as well as their fine art collection .","[[room], [state]]",PART-WHOLE-lr,NONE,65601
-""" senior government officials , speaking in the corridors of power in moscow , have no illusions about any long - term perspectives for the ( russian - german - french ) axis , "" the respected i ##z ##ves ##tia daily reported .","[[corridors], [moscow]]",PART-WHOLE-lr,NONE,66693
-
-"jonathan karl , cnn , washington .","[[jonathan, karl], [cnn]]",ORG-AFF-lr,NONE,33731
-
+"but for all the resistance , coalition aircraft rule the skies and coalition technology is overwhelmingly superior .","[[coalition], [aircraft]]",ART-lr,NONE,7781
+"police also arrested two moroccan men suspected of trafficking in human beings and na ##vi ##gating the zodiac boat across from africa , e ##fe said .","[[men], [zodiac]]",ART-lr,NONE,14507
 they ' re expecting a total at this particular base near the iraqi border of 300 sort ##ies in a 24 - hour period ending today according to the air force total from all the bases and there are more than 30 bases in 12 different countries in the middle east according to the pentagon .,"[[air, force], [bases]]",ART-lr,NONE,19353
 the job of these royal engineers is to clear this and many other mountains of armament ##s and destroy them .,"[[engineers], [them]]",ART-lr,NONE,19602
-the country ' s parliament voted this month to allow u . s . - led coalition forces to use italian air space and military bases _ but not for directs attacks on iraq .,"[[coalition], [bases]]",ART-lr,NONE,58551
+the accord was the last remaining legal obligation under which north korea was banned from developing atomic arms .,"[[north, korea], [arms]]",ART-lr,NONE,34118
+"in december , a shipment of north korean missiles bound for yemen was briefly stopped in the arabian sea .","[[north, korean], [missiles]]",ART-lr,NONE,34206
+( on camera ) : what stops though - we know the iraqi ##s have fired sand missiles and fired aaa at aircraft all throughout this war .,"[[iraqi, ##s], [aircraft]]",ART-lr,NONE,38945
+"xi ##n _ eng _ 2003 ##0 ##32 ##4 . 01 ##9 ##1 news story 2003 ##0 ##32 ##4 five killed in coalition bombing on baghdad baghdad , march 24 ( xi ##nh ##ua ) five iraqi civilians , including a woman , were killed monday when their houses were hit by a missile fired by the us - led coalition warp ##lane ##s , witnesses said .","[[us], [warp, ##lane, ##s]]",ART-lr,NONE,50273
+"eight - thirty - six a . m . walter rodgers reports according to army sources , iraqi officials are fleeing baghdad in drove ##s , using civilian convoys top avoid being targeted by coalition air strikes .","[[sources], [convoys]]",ART-lr,NONE,56800
+"i ' ll try to explain it the best i can from what i remember from being on the "" uss abraham lincoln "" this is an amphibious ship , rather , but this is what the navy does with regard to prevention .","[[i], [uss, abraham, lincoln]]",ART-lr,NONE,57415
 would you support the use of military force to block iran from developing nuclear weapons ?,"[[iran], [weapons]]",ART-lr,NONE,60533
+"why do we , america , get to choose who has nu ##kes and who does n ' t ?","[[america], [nu, ##kes]]",ART-lr,NONE,60640
 
-"sources tell our national security correspondent , david en ##sor , that the terrorist is a member of a group operating in the west of baghdad .","[[group], [baghdad]]",GEN-AFF-lr,NONE,10025
-national security correspondent david en ##sor joins us live from washington .,"[[us], [washington]]",GEN-AFF-lr,NONE,16510
-the stay was granted to give the school districts involved in the initial cases 90 days to appeal to the u . s . supreme court here in washington .,"[[u, ., s, ., supreme, court], [washington]]",GEN-AFF-lr,NONE,51681
-"if we can tie up all state procurement officials and all vendors in a quest to help under - represented small , minority , and woman - owned businesses , we should commit all new state facility spending in a quest to help our economically disadvantaged regions .","[[businesses], [we]]",GEN-AFF-lr,NONE,53436
-
-putin concluded his two days of talks in saint petersburg with jacques chi ##rac of france and german chancellor gerhard sc ##hr ##oed ##er on saturday still urging for a central role for the united nations in a post - war revival of iraq .,"[[france], [gerhard, sc, ##hr, ##oed, ##er]]",PHYS-rl,NONE,66881
-
-"anwar will be taken to the appeal court early friday for a bail application pending his appeal to the country ' s highest federal court again ##t his so ##dom ##y conviction , counsel sank ##ara nair said .","[[country], [federal, court]]",PART-WHOLE-rl,NONE,9240
-about nine miles from the iraqi capital .,"[[iraqi, capital], []]",PART-WHOLE-rl,NONE,12823
-"ap ##w _ eng _ 2003 ##0 ##31 ##9 . 05 ##45 news story 2003 ##0 ##31 ##9 dil ##ler resign ##s as head of vi ##ven ##di universal entertainment los angeles ( ap ) barry dil ##ler resigned as co - chief executive of vi ##ven ##di universal entertainment , saying it was appropriate for him to step down while paris - based vi ##ven ##di universal entertain ##s bids for universal studios , universal ' s theme parks and other entertainment assets .","[[universal], [assets]]",PART-WHOLE-rl,NONE,17218
-"ap ##w _ eng _ 2003 ##0 ##31 ##9 . 05 ##45 news story 2003 ##0 ##31 ##9 dil ##ler resign ##s as head of vi ##ven ##di universal entertainment los angeles ( ap ) barry dil ##ler resigned as co - chief executive of vi ##ven ##di universal entertainment , saying it was appropriate for him to step down while paris - based vi ##ven ##di universal entertain ##s bids for universal studios , universal ' s theme parks and other entertainment assets .","[[universal, studios], [parks]]",PART-WHOLE-rl,NONE,17282
-"also that bomb site in baghdad hit about a week and a half ago , the mans ##our district .","[[baghdad], [mans, ##our, district]]",PART-WHOLE-rl,NONE,29051
+they ' re expecting a total at this particular base near the iraqi border of 300 sort ##ies in a 24 - hour period ending today according to the air force total from all the bases and there are more than 30 bases in 12 different countries in the middle east according to the pentagon .,"[[iraqi], [border]]",PART-WHOLE-rl,NONE,39062
 "gary tu ##chman in an air base near the iraq border , thanks very much , gary tu ##chman .","[[iraq], [border]]",PART-WHOLE-rl,NONE,39113
 
 "cnn ' s ryan chi ##lco ##te is embedded with the 101 ##st airborne division , and he has the story .","[[cnn], [ryan, chi, ##lco, ##te]]",ORG-AFF-rl,NONE,3947
+"in the final push to baghdad , u . s . forces face limited resistance from iraqi troops .","[[u, ., s], [forces]]",ORG-AFF-rl,NONE,5255
+british forces say they ' re con ##sol ##ida ##ting their position in bas ##ra ' s key suburbs .,"[[british], [forces]]",ORG-AFF-rl,NONE,5293
+cnn ' s ryan chi ##lco ##te is in na ##ja ##f .,"[[cnn], [ryan, chi, ##lco, ##te]]",ORG-AFF-rl,NONE,5515
+"secretary of state colin powell says some progress is being made despite all of this , towards a truce involving palestinian militants .","[[palestinian], [militants]]",ORG-AFF-rl,NONE,8078
+""" nothing is going to change on hezbollah because we do n ' t have an agreement among the member states , "" the diplomat said .","[[hezbollah], [states]]",ORG-AFF-rl,NONE,15232
+"in southern iraq today , british forces also moving closer to the center of the second largest city in iraq , bas ##ra .","[[british], [forces]]",ORG-AFF-rl,NONE,18412
 "this programming note , tomorrow at noon eastern i ' ll have a special interview with the nation ' s top military officer , the chairman of the joint chiefs of staff .","[[nation], [officer]]",ORG-AFF-rl,NONE,19416
+"some of the 40 , 000 british troops are kicking up a lot of dust in the iraqi desert making sure that nothing is left behind them that could hurt them .","[[british], [troops]]",ORG-AFF-rl,NONE,19459
+"since coalition troops seized baghdad ' s international airport , they have encircled the heavily - bombed city of 5 million people , blocking off entry and exits and monitored all movement from the air .","[[coalition], [troops]]",ORG-AFF-rl,NONE,23998
+monday ' s advances came one day after british forces in the south made their deepest push into iraq ' s second largest city .,"[[british], [forces]]",ORG-AFF-rl,NONE,24022
 troops are involved in heavy fighting with iraqi forces .,"[[iraqi], [forces]]",ORG-AFF-rl,NONE,26720
-"since she ' s incapable of make her own decision , a florida judge based his decision on below to give birth on the recommendation .","[[florida], [judge]]",ORG-AFF-rl,NONE,43600
-this is something that iraqi vice president rama ##dan had said would take place .,"[[iraqi], [president]]",ORG-AFF-rl,NONE,60809
+"the army ' s 3rd infantry division 1st marine division , leading the assault against baghdad .","[[army], [division]]",ORG-AFF-rl,NONE,26737
+iraqi forces using soviet - era tanks .,"[[iraqi], [forces]]",ORG-AFF-rl,NONE,26774
+"spy planes are searching for more banned arms , and iraqi scientists are being interviewed by u . n . weapons inspectors .","[[u, ., n], [inspectors]]",ORG-AFF-rl,NONE,28131
+"well , as coalition forces push north , they are encounter ##ing a unique problem of combat , getting rid of the weapons captured from the enemy .","[[coalition], [forces]]",ORG-AFF-rl,NONE,39153
+"para ##m cum ##ara ##sw ##amy , the u . n . special investigator on the freedom of judges and lawyers , said in a statement : ` ` so long as there are judges who are prepared to and continue to compromise the value and principles of their high office . . . there is no hope for judicial independence and imp ##art ##ial ##ity in the malaysian justice system . ' '","[[u, ., n], [investigator]]",ORG-AFF-rl,NONE,40481
+"the division _ the 51st infantry division , with 8 , 000 men and as many as 200 tanks , a key unit in the defense of bas ##ra _ was the largest defect ##ion in a day when iraqi leader saddam hussein ' s forces showed signs of crumbling .","[[51st, infantry, division], [forces]]",ORG-AFF-rl,NONE,41494
+"the division _ the 51st infantry division , with 8 , 000 men and as many as 200 tanks , a key unit in the defense of bas ##ra _ was the largest defect ##ion in a day when iraqi leader saddam hussein ' s forces showed signs of crumbling .","[[51st, infantry, division], [unit]]",ORG-AFF-rl,NONE,41508
+and it ' s very likely that the u . s . and the british forces are the authority on land .,"[[british], [forces]]",ORG-AFF-rl,NONE,47873
+u . s . troops could be in baghdad southern outskirts by early thursday .,"[[u, ., s], [troops]]",ORG-AFF-rl,NONE,51535
+"his comments were echoed by the german ambassador to the un , gunter pl ##eu ##ger , who said : "" there is no majority support for the british proposal . ""","[[german], [ambassador]]",ORG-AFF-rl,NONE,56509
+` ` and it may also serve as a warning to turkish forces . ' ',"[[turkish], [forces]]",ORG-AFF-rl,NONE,58205
+"frustrated , jakarta ' s generals are looking elsewhere to replace anti ##qua ##ted arsenal ##s .","[[jakarta], [generals]]",ORG-AFF-rl,NONE,59916
+"judy . . . wood ##ruff ben , what is your best understanding of what it is on the ground that the coalition forces are going after there ?","[[coalition], [forces]]",ORG-AFF-rl,NONE,64287
 
-"a majority of these are coming from - - ( un ##int ##elli ##gible ) on this box , but jordan and france .","[[majority], [these]]",ART-rl,NONE,4071
+just about 25 minutes long in that press conference there at nato headquarters in brussels .,"[[nato], [headquarters]]",ART-rl,NONE,9460
 "mil ##am grenades , mortar ##s , all sorts of ammunition abandoned by iraqi soldiers but there for the taking .","[[mortar, ##s], [soldiers]]",ART-rl,NONE,19587
 "mil ##am grenades , mortar ##s , all sorts of ammunition abandoned by iraqi soldiers but there for the taking .","[[ammunition], [soldiers]]",ART-rl,NONE,19596
 "mil ##am grenades , mortar ##s , all sorts of ammunition abandoned by iraqi soldiers but there for the taking .","[[grenades], [soldiers]]",ART-rl,NONE,19598
-"well , as coalition forces push north , they are encounter ##ing a unique problem of combat , getting rid of the weapons captured from the enemy .","[[weapons], [enemy]]",ART-rl,NONE,39151
-"frustrated , jakarta ' s generals are looking elsewhere to replace anti ##qua ##ted arsenal ##s .","[[jakarta], [generals]]",ART-rl,NONE,59916
+"i mean do you know ( un ##int ##elli ##gible ) ban ##ham i ' m not too sure but judging by some of this , it ' s been here quite a long time so whether it ' s been used recently by them - there was an intel upbeat saying that they were possibly coming back to try and get this to use against them .","[[it], [them]]",ART-rl,NONE,39272
 
 in other news : feminist ##s still believe they ' re second - class citizens in the united states .,"[[they], [united, states]]",NONE,PHYS-lr,1112
-"ap ##w _ eng _ 2003 ##0 ##31 ##1 . 07 ##75 news story 2003 ##0 ##31 ##1 turkish party leader rec ##ep tay ##yi ##p er ##dog ##an named prime minister , may push to allow in u . s . troops ankara , turkey ( ap ) the charismatic leader of turkey ' s governing party was named prime minister tuesday , a step that probably boost ##s chances that the united states will get permission to deploy troops in the country along iraq ' s northern border .","[[troops], [border]]",NONE,PHYS-lr,13249
+"hari ##ri submitted his resignation during a 10 - minute meeting with the head of state at the ba ##ab ##da presidential palace , outside the capital .","[[hari, ##ri], [palace]]",NONE,PHYS-lr,12600
+chi ##lco ##te he orders his men back to their compound to await cooler heads .,"[[men], [compound]]",NONE,PHYS-lr,14108
+"the islands are in the yellow sea , between the northeastern province of lia ##oning and north korea .","[[yellow, sea], [north, korea]]",NONE,PHYS-lr,18608
+"gary tu ##chman in an air base near the iraq border , thanks very much , gary tu ##chman .","[[base], [border]]",NONE,PHYS-lr,19409
 "renowned as the world ' s first woman explorer who has reached the arctic , the antarctica and mount everest , lee has made immense contributions toward polar exploration over the past 20 years .","[[who], [arctic]]",NONE,PHYS-lr,20180
 "renowned as the world ' s first woman explorer who has reached the arctic , the antarctica and mount everest , lee has made immense contributions toward polar exploration over the past 20 years .","[[who], [antarctica]]",NONE,PHYS-lr,20181
+arizona does n ' t use it because one tribe of indians stretches into three states .,"[[tribe], [states]]",NONE,PHYS-lr,35784
 many members on that tape working together through a cell in germany known as the hamburg cell seen in the same room at the same time .,"[[members], [room]]",NONE,PHYS-lr,36304
-"last month in miami , a judge ordered an abortion for another severely disabled raped woman who had been living this a state - regulated home .","[[who], [home]]",NONE,PHYS-lr,43636
-"jeanne me ##ser ##ve , cnn , fairfax county , virginia .","[[jeanne, me, ##ser, ##ve], [fairfax, county]]",NONE,PHYS-lr,52368
-"some things you may want to do is , first all , just get here a little bit early .","[[you], [here]]",NONE,PHYS-lr,52633
-ka ##gan ( voice - over ) their second - grade work keeping watch over those who keep watch in the persian gulf .,"[[who], [persian, gulf]]",NONE,PHYS-lr,57947
-"bush and putin were scheduled to leave straight after their talks for the group of eight summit of the largest industrial ##ised nations in ev ##ian , france .","[[putin], [ev, ##ian]]",NONE,PHYS-lr,61830
+"cnn _ eng _ 2003 ##0 ##43 ##0 _ 06 ##30 ##16 . 14 news story 2003 - 04 - 30 09 : 00 : 55 colorado woman wants to thank and reward the person who found her $ 7 , 000 ring she lost at the beach .","[[she], [beach]]",NONE,PHYS-lr,42267
+"every 26 months , mars and earth fly in close orbital formation .","[[mars], [earth]]",NONE,PHYS-lr,56710
+"detectives were able to track the order to the house , where they found alvarez hiding in the attic .","[[detectives], [where]]",NONE,PHYS-lr,65760
 
-"every 26 months , mars and earth fly in close orbital formation .","[[mars], [earth]]",PHYS-rl,PHYS-lr,56710
-
+she ' s now playing for the washington freedom of the wu ##sa .,"[[washington, freedom], [wu, ##sa]]",NONE,PART-WHOLE-lr,872
+"david horn of long island , new york , writes , "" how can bush say he ' s for democracy ?","[[long, island], [new, york]]",NONE,PART-WHOLE-lr,2718
+"you won in 2000 , but you got punk ##ed the last two years , and last year you got to play for the title even though you did n ' t even win your conference .","[[your, conference], []]",NONE,PART-WHOLE-lr,3676
+how about the fact that only two teams that did n ' t win their conference have ever played for the national title ?,"[[their, conference], []]",NONE,PART-WHOLE-lr,3698
+"cnn _ eng _ 2003 ##0 ##40 ##1 _ 233 ##44 ##9 . 5 news story 2003 - 04 - 01 23 : 38 : 21 an airport in key west , florida , today became the setting of what appeared to be a desperate attempt to enter the u . s . by a cuban national .","[[airport], [key, west]]",NONE,PART-WHOLE-lr,5140
+the first departure ##s are already underway at fort hood texas .,"[[fort, hood, texas], []]",NONE,PART-WHOLE-lr,7358
+"their mission is very broad , judy to deploy anywhere in the world in support of national strategy .","[[anywhere], [world]]",NONE,PART-WHOLE-lr,7514
+"while we are very pleased with this out ##pour ##ing of support , i am going to keep doing what i have been doing : listening to my neighbors and working to make our communities in fairfax county a better place to live , work and raise a family , "" stated we ##rk ##hei ##ser .","[[communities], [fairfax, county]]",NONE,PART-WHOLE-lr,10484
+they captured an iraqi base in an unused factory in the southern suburbs of that city .,"[[factory], [suburbs]]",NONE,PART-WHOLE-lr,18441
+"the islands are in the yellow sea , between the northeastern province of lia ##oning and north korea .","[[islands], [yellow, sea]]",NONE,PART-WHOLE-lr,18602
+cnn _ eng _ 2003 ##0 ##50 ##2 _ 08 ##00 ##20 . 7 news story 2003 - 05 - 02 10 : 26 : 56 back to the scene in orlando florida .,"[[orlando, florida], []]",NONE,PART-WHOLE-lr,20211
+"iron doors hidden in panels close every night , sealing it off from the the rest of the museum .","[[rest], [museum]]",NONE,PART-WHOLE-lr,23192
 so france and germany - - that ' s actually true - - find themselves in the minority on their own continent .,"[[their], [continent]]",NONE,PART-WHOLE-lr,23688
-"zhang zu ##oy ##i , director of the nuclear energy technology and design institute attached to qing ##hua university , was quoted in monday ' s beijing evening news as saying the fresh water to be produced from the project will cost 3 . 75 yuan per ton , much less than the cost of water from existing sources .","[[nuclear, energy, technology, and, design, institute], [qing, ##hua, university]]",NONE,PART-WHOLE-lr,50997
+the couple is preparing to tie the knot at gracie mansion in new york tonight .,"[[gracie, mansion], [new, york]]",NONE,PART-WHOLE-lr,26710
+"from the cnn center in atlanta , i ' m fred fred .","[[center], [atlanta]]",NONE,PART-WHOLE-lr,26782
+"a small group of iraqi defenders has been holding out inside the city in a mosque , considered a shi ##ite holy site , and local cleric ##s said one religious leader had recently arrived in hopes of arranging for their safe passage out of the shrine .","[[city], [mosque]]",NONE,PART-WHOLE-lr,31072
+"two of the four pilots who took control of the planes on 9 / 11 attended a wedding party in hamburg , germany , four years ago 1999 this is .","[[hamburg], [germany]]",NONE,PART-WHOLE-lr,36292
+"british anti - terror police arrested six people altogether in derbyshire , central england , and london on may 2 and 3 .","[[derbyshire], [england]]",NONE,PART-WHOLE-lr,40221
+"bobbie jo st ##inn ##ett , 23 , was found thursday in a pool of blood inside her small white home in ski ##dm ##ore , a town in northwest missouri .","[[town], [missouri]]",NONE,PART-WHOLE-lr,42445
+"20 million years ago , they were formed when india broke off what was then a piece of africa and slammed into that portion of asia , creating this tremendous mountain range , with of course mt . everest at 29 , 000 feet above sea level .","[[piece], [africa]]",NONE,PART-WHOLE-lr,43212
+"one concern these men have in the waterways of iraq is the threat of an ambush , so there are five weapon stations on the special operations craft .","[[stations], [craft]]",NONE,PART-WHOLE-lr,46480
+u . s . - led forces are approaching iraq ' s capital after destroying the medina and baghdad divisions of the republican guard .,"[[divisions], [republican, guard]]",NONE,PART-WHOLE-lr,46722
+"it turns out the anonymous company , bai ##kal ##fin ##ans ##group , shares an address with o ##oo tv ##ern ##eft ##ema ##sh , which was recently bought by za ##o ga ##z ##pro ##mg ##eo ##com ##ser ##vic ##e , not to ever be confused by the similarly - named ga ##z ##pro ##m ( which by the way has a similar logo ) .","[[which], [za, ##o, ga, ##z, ##pro, ##mg, ##eo, ##com, ##ser, ##vic, ##e]]",NONE,PART-WHOLE-lr,53322
+"china ' s delegation is led by fu ying , director general of the asian affairs department of its foreign ministry .","[[asian, affairs, department], [foreign, ministry]]",NONE,PART-WHOLE-lr,55364
+"the eagle two will sit on the surface of mars for about six months , if all goes well , it will dig around , probe around , an ##ize rocks and search for signs of water .","[[surface], [mars]]",NONE,PART-WHOLE-lr,59724
+"protests against the action aimed at top ##pling iraqi president saddam hussein were held in cities across libya , egypt and lebanon , as well as in amman , damascus and the gaza strip .","[[cities], [libya]]",NONE,PART-WHOLE-lr,62170
 
-unidentified male aldo ##uri is a dear friend of mine .,"[[friend], [mine]]",NONE,PER-SOC-lr,187
+"trying to get mike hanna or jerusalem bureau chief , who was just on the air with us a matter of minutes ago .","[[or], [bureau]]",PART-WHOLE-rl,PART-WHOLE-lr,49712
+
 "as a result , only about 100 girls are born for every 119 boys , because couples traditionally favor males .","[[couples], [males]]",NONE,PER-SOC-lr,1048
-his lawyers say his trial attorney did a bad job and the prosecutors improper ##ly kept african americans off his jury .,"[[his, lawyers], []]",NONE,PER-SOC-lr,2913
-his lawyers say his trial attorney did a bad job and the prosecutors improper ##ly kept african americans off his jury .,"[[his], [attorney]]",NONE,PER-SOC-lr,2921
+phillips commander steve k ##rot ##o brings his crew home after locating enemy positions and surface - to - surface missiles .,"[[his, crew], []]",NONE,PER-SOC-lr,4442
 "each minister would have two american deputies and eight american advisers , plus four iraqi advisers from inside the country and four iraqi exiles .","[[minister], [deputies]]",NONE,PER-SOC-lr,6673
 "each minister would have two american deputies and eight american advisers , plus four iraqi advisers from inside the country and four iraqi exiles .","[[minister], [advisers]]",NONE,PER-SOC-lr,6674
 "cnn ' s jamie ko ##lb ##e is there reporting , jamie on these families who are saying good - bye to their loved ones .","[[their], [ones]]",NONE,PER-SOC-lr,7386
-"they have reunited with their families and friends , at the aircraft carrier ' s home port in norfolk , virginia .","[[their, families], []]",NONE,PER-SOC-lr,7973
 "they have reunited with their families and friends , at the aircraft carrier ' s home port in norfolk , virginia .","[[their], [friends]]",NONE,PER-SOC-lr,7974
 "cnn _ eng _ 2003 ##0 ##31 ##3 _ 08 ##37 ##39 . 0 news story 2003 - 03 - 13 08 : 33 : 57 that her younger sister , mary katherine , was the one who went to her father and said , "" dad , i think i know who did this . ""","[[her], [sister]]",NONE,PER-SOC-lr,10503
 "cnn _ eng _ 2003 ##0 ##31 ##3 _ 08 ##37 ##39 . 0 news story 2003 - 03 - 13 08 : 33 : 57 that her younger sister , mary katherine , was the one who went to her father and said , "" dad , i think i know who did this . ""","[[her, father], []]",NONE,PER-SOC-lr,10545
+"this is the first time her father got to hold her and look in her eyes since he came back from "" operation iraqi freedom . ""","[[her, father], []]",NONE,PER-SOC-lr,11808
+"we ' re looking at now , a sailor seeing his baby for the first time , just remarkable .","[[his, baby], []]",NONE,PER-SOC-lr,11831
 "and andrew lust ##er , grandson of cosmetic legend max factor .","[[grandson], [max, factor]]",NONE,PER-SOC-lr,11883
 can someone tell me why one of my friends or family members has n ' t smacked me because of it ?,"[[my], [members]]",NONE,PER-SOC-lr,12743
-presidential chief of staff rig ##obe ##rt ##o ti ##gl ##ao said estrada ' s camp was trying to revive the issue on the legal ##ity of president gloria mac ##apa ##gal - arroyo ' s administration when this was upheld twice by the supreme court .,"[[estrada], [camp]]",NONE,PER-SOC-lr,13079
 "he came in the back door , got the wife and kid out , rouse ##d me up and got me out .","[[wife], [kid]]",NONE,PER-SOC-lr,16110
 prosecutors charge lindsey ryan with stealing firearms from her parents ' home .,"[[her, parents], []]",NONE,PER-SOC-lr,16438
 "( basically they are sl ##ush funds for local politicians , who too often sl ##ui ##ce the federal money to their developer friends to build ugly downtown hotels . )","[[their], [friends]]",NONE,PER-SOC-lr,19700
 the news was announced thursday by gi ##ulia ##ni spoke ##sw ##oman sunny mind ##el .,"[[gi, ##ulia, ##ni, spoke, ##sw, ##oman], []]",NONE,PER-SOC-lr,19757
-"that july , sharon os ##bourne , oz ##zy ' s long time manager , wife and best friend , announced to the world that she ' d been diagnosed with colon cancer .","[[oz, ##zy], [manager]]",NONE,PER-SOC-lr,20472
+this is a guy whose world revolves not so much around music as around his wife .,"[[his, wife], []]",NONE,PER-SOC-lr,20616
+but seeing their son in person is quite another .,"[[their, son], []]",NONE,PER-SOC-lr,20956
 and he ' s got to be careful of his muzzle pointing at his partner right here .,"[[his, partner], []]",NONE,PER-SOC-lr,22905
+i talked to a friend currently serving in iraq last night and he says morale is up and the presence of troops is a positive thing .,"[[i], [friend]]",NONE,PER-SOC-lr,23372
 he wanted to date her again and she was n ' t interested .,"[[he], [her]]",NONE,PER-SOC-lr,24563
 that ' s when police say he grabbed their daughter .,"[[their, daughter], []]",NONE,PER-SOC-lr,24592
 "the father of the child allegedly picked the baby up , dan ##ged ##led it out the window , pulled the child back in .","[[father], [child]]",NONE,PER-SOC-lr,24593
-"they say they ' re looking forward to going home , which relatives of one former p . o . w . say could happen as soon as tomorrow .","[[relatives], [p, ., o, ., w]]",NONE,PER-SOC-lr,24660
 my better half is here .,"[[my], [half]]",NONE,PER-SOC-lr,25472
 joins me is tom rink ##s with his attorney john do ##za .,"[[his, attorney], []]",NONE,PER-SOC-lr,27413
 prosecutors say long ##o stood his family because they stood before him and the life he craved .,"[[his, family], []]",NONE,PER-SOC-lr,33874
 i kept reading the website of prop ##ogan ##da and found that the first person to come up with the idea was benjamin franklin who did it on behalf of some friends that owned oil companies ( oil was used in lamps ) .,"[[who], [friends]]",NONE,PER-SOC-lr,35751
+reporter : who was that nice man stroll ##ing with his wife ?,"[[his, wife], []]",NONE,PER-SOC-lr,37249
 "romantic ##ly stroll ##ing with his first wife on a snowy path , trend ##y leather coat , furry hat .","[[his], [wife]]",NONE,PER-SOC-lr,37254
 these are video ##ta ##pes from the ' 80s found in a palace of saddam hussein ' s first wife .,"[[saddam, hussein], [wife]]",NONE,PER-SOC-lr,37261
 stewart ' s 1979 marriage to alan ##a hamilton lasted five years and produced two children .,"[[stewart], [alan, ##a, hamilton]]",NONE,PER-SOC-lr,37421
@@ -102,87 +140,186 @@ this is brother against brother after one slept with the other ' s wife and then
 "on a less - sarcastic note , i pray for the family of the 23 - year - old woman .","[[family], [woman]]",NONE,PER-SOC-lr,42599
 a texas woman is in jail this morning accused of killing her two sons and severely beating another the day before mother ' s day .,"[[woman], [another]]",NONE,PER-SOC-lr,42644
 "tell that to the family of margaret hassan , the school teacher who was brutally tortured and then slaughtered by these same guys , they ai n ' t so bad are they chris matthews ?","[[family], [margaret, hassan]]",NONE,PER-SOC-lr,45285
-"bar ##gh ##out ##i was one of the major leaders of the first int ##if ##ada in 1987 , leading palestinians in a mass uprising against israeli occupation of the west bank .","[[one], [leaders]]",NONE,PER-SOC-lr,48609
+"in 1996 , he was elected to the palestinian legislative council , in which he advocated peace with israel , sometimes coming in conflict with ya ##sser ara ##fat .","[[he], [ya, ##sser, ara, ##fat]]",NONE,PER-SOC-lr,48638
 "afterward , he and other white house officials said the remarks did not signal a lack of confidence in the resolution ' s prospects .","[[he], [officials]]",NONE,PER-SOC-lr,52621
 some suggested that russian president vladimir putin will now be scrambling to contain the damage to his once - bud ##ding friendship with us president george w . bush because he was poorly advised by his intelligence and defense aide ##s .,"[[vladimir, putin], [george, w, ., bush]]",NONE,PER-SOC-lr,52856
 its u . n . reporter has been on the payroll of the u . n . lobby .,"[[reporter], [lobby]]",NONE,PER-SOC-lr,55378
 in 2002 a jury sentenced yates to life in prison for the deaths of three of her children .,"[[her, children], []]",NONE,PER-SOC-lr,59872
 with her family on a day when their miracle finally came true .,"[[her, family], []]",NONE,PER-SOC-lr,63219
+teaching is a tradition in betsy ' s family .,"[[betsy], [family]]",NONE,PER-SOC-lr,63617
 "it depends on who ' s managing it , what career choices they make , what their parents help them to do .","[[their, parents], []]",NONE,PER-SOC-lr,65349
 
 "one such activist is mao hen ##gf ##eng , who was dismissed in 1988 from her job at a shanghai soap factory after becoming pregnant a second time .","[[her], [factory]]",NONE,ORG-AFF-lr,1099
-"blitz ##er all right , tell me what . . . rum ##sf ##eld i think what he wrote me about was the fact that the inter - agency process , where we have all these fbi and department of justice and cia and dia , and what have you , involved in inter ##ro ##gating these detainees , it takes time to find out what intelligence they have .","[[cia], []]",NONE,ORG-AFF-lr,2281
 that ' s why you played a four - loss team for your conference title this year .,"[[your, conference], []]",NONE,ORG-AFF-lr,3684
+they may have been timed to coincide with the arrival of secretary of state colin powell in ri ##yad ##h .,"[[secretary], [state]]",NONE,ORG-AFF-lr,3854
+"the rebels have captured the country ' s main international airport , said a top official in a 300 - strong african security force policing the city .","[[official], [force]]",NONE,ORG-AFF-lr,5786
+carlson by em ##body ##ing the values of your party .,"[[your], [party]]",NONE,ORG-AFF-lr,8262
+"in a moment , we ' ll ask two members of congress if they ' re convinced that war is the only way to make saddam hussein di ##sar ##m .","[[members], [congress]]",NONE,ORG-AFF-lr,8295
 "he ' s a professor of psychiatry at nyu , chairman of the forensic panel and fellow of the de ##pr ##avi ##ty scale that considers sensation ##al crimes for sentencing .","[[professor], [nyu]]",NONE,ORG-AFF-lr,11930
 "he ' s a professor of psychiatry at nyu , chairman of the forensic panel and fellow of the de ##pr ##avi ##ty scale that considers sensation ##al crimes for sentencing .","[[chairman], [forensic, panel]]",NONE,ORG-AFF-lr,11934
 he also owns a television and a radio station and a newspaper .,"[[he], [station]]",NONE,ORG-AFF-lr,12638
+he also owns a television and a radio station and a newspaper .,"[[he], [newspaper]]",NONE,ORG-AFF-lr,12639
+"at members of er ##dog ##an ' s party , the anatolia news agency reported .","[[members], [party]]",NONE,ORG-AFF-lr,13761
 "as you know , the republican guard just outside baghdad to defend the city and saddam hussein ' s regime , in principal .","[[saddam, hussein], [regime]]",NONE,ORG-AFF-lr,18301
 "in 1997 , she successfully founded the china polar museum foundation with a view to con ##sol ##ida ##ting scientific research findings about polar exploration from all over the world to advance global environmental protection .","[[she], [china, polar, museum, foundation]]",NONE,ORG-AFF-lr,20198
 "launched in 1996 , the biennial alumni selection is jointly organized by poly ##u and the federation of poly ##u alumni associations for the fourth time , so as to accord public recognition to outstanding graduates of the university .","[[graduates], [university]]",NONE,ORG-AFF-lr,20209
 "the two met , michelle and david in flight school .","[[two], [school]]",NONE,ORG-AFF-lr,21130
-"founded by former mayor g ##hol ##am ##hos ##sei ##n ka ##rba ##sch ##i , ham ##shah ##ri was quick to become iran ' s biggest - selling daily with a circulation of 450 , 000 .","[[g, ##hol, ##am, ##hos, ##sei, ##n, ka, ##rba, ##sch, ##i], [ham, ##shah, ##ri]]",NONE,ORG-AFF-lr,21385
+"white played a total of 15 years with philadelphia , green bay and carolina .","[[white], [philadelphia]]",NONE,ORG-AFF-lr,21425
+"white played a total of 15 years with philadelphia , green bay and carolina .","[[white], [green, bay]]",NONE,ORG-AFF-lr,21426
+bet ` f ##ow central command chief gen . tommy franks and his field commanders face a big decision _ whether to rush into the city of 5 million where hussein ' s regime has gathered its most - trusted forces or wait and see if the war can be won without paying the price of street - to - street urban fighting .,"[[hussein], [regime]]",NONE,ORG-AFF-lr,22203
 beg ##ala my question is not who votes at the u . n .,"[[who], [u, ., n]]",NONE,ORG-AFF-lr,23703
+"shortly afterward , israel killed seven people in gaza , two of them members of hamas .","[[members], [hamas]]",NONE,ORG-AFF-lr,27359
 and deputy secretary of homeland security asa hutchinson is yet another career politician and a graduate of the disgrace ##ful bob jones university .,"[[secretary], [homeland, security]]",NONE,ORG-AFF-lr,29392
+he was a representative to the united nations in geneva from 1989 to 1998 .,"[[representative], [united, nations]]",NONE,ORG-AFF-lr,31630
+"( voice - over ) : these iraqi ##s were ri ##fl ##ing a home of a senior member of the mu ##kha ##bara ##t , saddam ' s dread ##ed secret police .","[[saddam], [police]]",NONE,ORG-AFF-lr,33165
 "anyway , it looks like they ' re denying chinese involvement to avoid a lawsuit , which is funny - - you ' d think they might know someone in the russian judiciary who could help them out .","[[someone], [judiciary]]",NONE,ORG-AFF-lr,40314
-"few choose to use it , but if they want they can fundamentally change their school .","[[their], [school]]",NONE,ORG-AFF-lr,40627
+"we anti ##ci ##pate in a matter of moments , the secretary of defense , donald rum ##sf ##eld , to arrive inside of this hangar and we ' ll carry his speech live when that gets underway .","[[secretary], [defense]]",NONE,ORG-AFF-lr,42366
+they were legal because mr . cheney ' s company used a loop ##hole .,"[[cheney], [company]]",NONE,ORG-AFF-lr,42750
+"marko ##vic , the leader of the neo - communist yugoslav left party , lost her parliamentary immunity from prosecution after she failed to become a deputy in the parliament of serbia and montenegro , the country that last month succeeded yugoslavia .","[[deputy], [parliament]]",NONE,ORG-AFF-lr,45127
 beg ##ala i used to work there .,"[[i], [there]]",NONE,ORG-AFF-lr,46087
+"she made the statements after a meeting with the speaker of the portuguese parliament , joao mo ##ta amara ##l .","[[speaker], [parliament]]",NONE,ORG-AFF-lr,46832
+"also , portugal hosted a last ditch pre - war summit in the azores islands for leaders of the united states , britain and spain .","[[leaders], [britain]]",NONE,ORG-AFF-lr,46899
+"adam e ##bb ##in ( d , alexandria ) is the first openly gay member to serve in the house of delegates .","[[member], [house, of, delegates]]",NONE,ORG-AFF-lr,48164
+"in 1996 , he was elected to the palestinian legislative council , in which he advocated peace with israel , sometimes coming in conflict with ya ##sser ara ##fat .","[[he], [palestinian, legislative, council]]",NONE,ORG-AFF-lr,48636
+"jeanne me ##ser ##ve , cnn , fairfax county , virginia .","[[jeanne, me, ##ser, ##ve], [cnn]]",NONE,ORG-AFF-lr,52366
+"the u . s . army ' s 3rd squadron , 7th cavalry has compiled a rather extraordinary record in the past several days .","[[3rd, squadron], [7th, cavalry]]",NONE,ORG-AFF-lr,53555
 "china ' s delegation is led by fu ying , director general of the asian affairs department of its foreign ministry .","[[general], [asian, affairs, department]]",NONE,ORG-AFF-lr,55360
+"dar ##yn ka ##gan , cnn , kuwait .","[[dar, ##yn, ka, ##gan], [cnn]]",NONE,ORG-AFF-lr,57949
+parade magazine reminds us today that he ' s a co - chair of the commission on the intelligence capabilities of the united states regarding weapons of mass destruction .,"[[co, -, chair], [commission, on, the, intelligence, capabilities, of, the, united, states, regarding, weapons, of, mass, destruction]]",NONE,ORG-AFF-lr,59760
+it ' s simply mind - bog ##gling that chichester is allowed to single - handed ##ly govern our entire state .,"[[chichester], [state]]",NONE,ORG-AFF-lr,61866
+"you see , after kobe ' s world fell apart because he could n ' t resist banging the crazy white towel clerk at his hotel , he needed an out .","[[clerk], [hotel]]",NONE,ORG-AFF-lr,65010
+"there are n ' t any pure - play buys on this theory , but someone who believes it might over ##weight their portfolio in cable companies - - if they purchased any media stocks at all .","[[who], [companies]]",NONE,ORG-AFF-lr,65382
 
-she was in charge of the iraqi facility that weapon ##ized ant ##hra ##x .,"[[she], [facility]]",NONE,ART-lr,10114
+"at the same meeting p ##yon ##gy ##ang confirmed it had nuclear weapons , and threatened to prove it with a "" display . ""","[[it], [weapons]]",NONE,ART-lr,4601
+and maynard jackson lies in state today at his allah matter .,"[[his], [allah, matter]]",NONE,ART-lr,12978
 the rover named spirit lifted off from the cape can ##aver ##al air force station aboard a boeing delta ii rocket at 1 : 58 p . m . ( 1758 gm ##t ) .,"[[boeing], [rocket]]",NONE,ART-lr,18509
+"on a much sad ##der note , the minister of defense , reggie white , died of heart attack this morning in his home at the age of 43 .","[[his], [home]]",NONE,ART-lr,21421
 "now , you just see this soldier right here , he ' s going to his side ##arm to make a little bit more mobile .","[[his], [side, ##arm]]",NONE,ART-lr,22899
+"let ' s roll tape and continue on here and talk about - - now , i notice his hand - - his side ##arm is attached to him .","[[his], [side, ##arm]]",NONE,ART-lr,22929
+"reporter : a he ##ft ##y diamond that thieves took a stab at in london in 2000 using a bull ##do ##zier , sl ##edge ##hammer and nail guns .","[[thieves], [bull, ##do, ##zier]]",NONE,ART-lr,23186
+cops say he allegedly kidnapped her and threatened her but eventually brought her back to her home .,"[[her], [home]]",NONE,ART-lr,24586
 "but as for the assault weapons ban issue , the man accused of the brutal killings , cha ##i van ##g of st . paul , min ##n , used a russian - built sai ##ga 7 . 62 mm , sk ##s semi ##au ##tom ##atic rifle .","[[man], [rifle]]",NONE,ART-lr,27930
 happily chatting with peasants behind the wheel of his white mercedes .,"[[his], [mercedes]]",NONE,ART-lr,37259
 the job of these royal engineers is to clear this and many other mountains of armament ##s and destroy them .,"[[engineers], [them]]",NONE,ART-lr,39342
 this one took a bull ##do ##zer to a concrete portrait of saddam hussein .,"[[one], [bull, ##do, ##zer]]",NONE,ART-lr,39522
 "bobbie jo st ##inn ##ett , 23 , was found thursday in a pool of blood inside her small white home in ski ##dm ##ore , a town in northwest missouri .","[[her], [home]]",NONE,ART-lr,42454
+"you see , after kobe ' s world fell apart because he could n ' t resist banging the crazy white towel clerk at his hotel , he needed an out .","[[his], [hotel]]",NONE,ART-lr,65004
+
+four u . s . soldiers from the 3rd infantry division manning a checkpoint near the town of na ##ja ##f killed today in an apparent suicide bombing .,"[[soldiers], [checkpoint]]",PHYS-lr,ART-lr,60781
 
 most of the new stores competing with giant are in virginia .,"[[most], [virginia]]",NONE,GEN-AFF-lr,5566
+"sources tell our national security correspondent , david en ##sor , that the terrorist is a member of a group operating in the west of baghdad .","[[group], [west]]",NONE,GEN-AFF-lr,10048
+"the united states is deploy ##ing some of iraq ' s exiles and internal di ##ssi ##dents around the country to help root out pro - saddam elements , keep order and distribute aid , according to one such organization , the iraq national congress .","[[exiles], [di, ##ssi, ##dents]]",NONE,GEN-AFF-lr,24377
+"bernie sanders , an independent from vermont , thank you very much .","[[independent], [vermont]]",NONE,GEN-AFF-lr,28545
+"in his home state of indiana , the committee ' s chairman , republican senator richard lu ##gar .","[[his], [state]]",NONE,GEN-AFF-lr,32044
+"and here in washington , democratic senator christopher dodd of connecticut .","[[christopher, dodd], [connecticut]]",NONE,GEN-AFF-lr,32063
+and what ' s better is that auburn gets to play one of the three hottest teams in the country in my opinion .,"[[teams], [country]]",NONE,GEN-AFF-lr,32743
+"virginia tech is talented , very athletic and one of the most well coached teams in the country and they will come to play on january 3rd .","[[teams], [country]]",NONE,GEN-AFF-lr,32753
+many members on that tape working together through a cell in germany known as the hamburg cell seen in the same room at the same time .,"[[cell], [germany]]",NONE,GEN-AFF-lr,36300
+both aircraft fly at 125 miles per hour gingerly over enemy land .,"[[enemy], [land]]",NONE,GEN-AFF-lr,38935
+and you ' re a congressman who has put his constituents and his country ahead of his partisan interests .,"[[his], [country]]",NONE,GEN-AFF-lr,59302
+that data will be sent back to the european space agency in germany .,"[[european, space, agency], [germany]]",NONE,GEN-AFF-lr,59737
 
+"ap ##w _ eng _ 2003 ##0 ##32 ##7 . 03 ##7 ##6 news story 2003 ##0 ##32 ##7 u . s . para ##tro ##opers parachute into northern iraq , secure airfield , link up with kurdish militia ir ##bil , iraq ( ap ) kurdish militia ##men and u . s . special operations troops linked up with more than 1 , 000 u . s . army para ##tro ##opers thursday to secure the area around a strategic air strip , as the first large coalition ground force in northern iraq began opening another front against saddam hussein ' s regime .","[[kurdish, militia, ##men], []]",PER-SOC-lr,GEN-AFF-lr,58050
+
+"last night before leaving the united states , aldo ##uri said he hopes to see free elections in a free iraq .","[[united, states], [aldo, ##uri]]",NONE,PHYS-rl,10
+"british troops control the outskirts of the town , and today destroyed another building they said housed iraqi fighters .","[[building], [fighters]]",NONE,PHYS-rl,7812
+"in the january attack , two palestinian suicide bombers blew themselves up in central tel aviv , killing 23 other people .","[[tel, aviv], [people]]",NONE,PHYS-rl,8833
+"in london , a spokesman for the british prime minister said tony blair "" condemn ##s absolutely what has happened "" .","[[london], [spokesman]]",NONE,PHYS-rl,8948
 a crazy world we live in .,"[[world], [we]]",NONE,PHYS-rl,10621
+"in chicago , the well known bill curtis .","[[chicago], [bill, curtis]]",NONE,PHYS-rl,11898
 "in atlanta chris picks ##ly , defense attorney .","[[atlanta], [chris, picks, ##ly]]",NONE,PHYS-rl,11910
 "and in new york , dr . michael well ##ner who published the research study on drug facilitated rap ##ists .","[[new, york], [michael, well, ##ner]]",NONE,PHYS-rl,11913
 "he found the lane to the farm and drove up into the farm ##yard , where he was met by the farmer .","[[where], [farmer]]",NONE,PHYS-rl,16083
+"on the other hand , the region is pretty unstable , filled with people who already hate americans and seek to do america harm .","[[region], [people]]",NONE,PHYS-rl,23631
+police say a bomber blew herself up outside a northern israel shopping center when she was stopped by a security guard .,"[[center], [guard]]",NONE,PHYS-rl,26697
 "from the cnn center in atlanta , i ' m fred fred .","[[center], [i]]",NONE,PHYS-rl,26783
+"the baghdad museum housed ir ##re ##pl ##ace ##able babylonian , sum ##erian and assyrian collections that chronicle ##d ancient life in the cradle of civilization , the area around the ti ##gr ##is and eu ##ph ##rates rivers .","[[area], [rivers]]",NONE,PHYS-rl,32005
+jay garner the retired general will go into iraq soon with his troops soon .,"[[iraq], [troops]]",NONE,PHYS-rl,35079
+"the message from the israeli government is that its soldiers are not targeting journalists , but that journalists who travel to places where there could be live fire exchange between israeli forces and palestinian gunmen have a responsibility to take greater precautions .","[[where], [forces]]",NONE,PHYS-rl,38803
+"the message from the israeli government is that its soldiers are not targeting journalists , but that journalists who travel to places where there could be live fire exchange between israeli forces and palestinian gunmen have a responsibility to take greater precautions .","[[where], [gunmen]]",NONE,PHYS-rl,38804
+"police arrested her in ab ##ile ##ne , texas , saturday where she had moved with a friend june 2 .","[[where], [friend]]",NONE,PHYS-rl,46257
+"also , in southern iraq today near bas ##ra , two members - claimed to be members of saddam ' s that ##ae ##en ( ph ) group surrendered to u . s . troops saying that they had been ordered to carry out suicide bombings down there but that they did n ' t want to die for the regime so they were surrender ##ing .","[[bas, ##ra], [members]]",NONE,PHYS-rl,60858
 "at the pentagon briefing today , general stanley mcc ##hr ##yst ##al said that it looked a lot like terrorism .","[[pentagon], [stanley, mcc, ##hr, ##yst, ##al]]",NONE,PHYS-rl,60903
+"in amman , three protest ##ors were hospital ##ised after some 500 jordanian lawyers staged a sit - in at the main court house after being forcibly blocked by riot police from marching towards the iraqi embassy to show their solidarity .","[[amman], [protest, ##ors]]",NONE,PHYS-rl,62648
+"south of the capital in sid ##on , some 1 , 500 school ##boys denounced "" the bush assassin "" and the "" silence of the arab leaders who sold out iraq "" .","[[sid, ##on], [school, ##boys]]",NONE,PHYS-rl,62752
 
-they ' re expecting a total at this particular base near the iraqi border of 300 sort ##ies in a 24 - hour period ending today according to the air force total from all the bases and there are more than 30 bases in 12 different countries in the middle east according to the pentagon .,"[[iraqi], [border]]",NONE,PART-WHOLE-rl,19378
+"located just 60 kilometers ( 35 miles ) north of the austrian border , it has been a source of friction between the two countries .","[[border], [it]]",ART-rl,PHYS-rl,12888
+
+but some shi ##ite muslim groups boycott ##ed the meeting and thousands protested nearby .,"[[shi, ##ite, muslim, groups], []]",NONE,PART-WHOLE-rl,5906
+"pittsburgh , one of us air ##way ' s hub ##s , built up its airport complete with a sprawling retail complex in the terminal .","[[airport], [complex]]",NONE,PART-WHOLE-rl,7331
+the u . s . administration has been pressing the security council to adopt a statement condemning p ##yon ##gy ##ang for failing to meet its obligations to prevent the spread of nuclear arms .,"[[u, ., s], [administration]]",NONE,PART-WHOLE-rl,16223
+"cash - strapped vi ##ven ##di wants to sell universal studios , its universal theme parks and television production company .","[[its], [company]]",NONE,PART-WHOLE-rl,17300
+"cash - strapped vi ##ven ##di wants to sell universal studios , its universal theme parks and television production company .","[[its], [parks]]",NONE,PART-WHOLE-rl,17302
+"vi ##ven ##di also is holding talks with via ##com , mgm and other buyers interested in acquiring all or parts of its entertainment companies .","[[its], [companies]]",NONE,PART-WHOLE-rl,17329
 u . s . troops thwarted a baghdad bank robbery over the protests of iraqi ##s eager to share in the lo ##ot .,"[[baghdad], [bank]]",NONE,PART-WHOLE-rl,31403
+"american forces have been criticized for failing to stop looting in several baghdad cities , and there have been complaints , as well , that humanitarian relief has been slow in arriving .","[[baghdad, cities], []]",NONE,PART-WHOLE-rl,31708
+"if you are interested in getting information about securities class actions for a company , you should check out the stanford law school ' s securities class action clearing ##house .","[[stanford, law, school], [securities, class, action, clearing, ##house]]",NONE,PART-WHOLE-rl,36369
+"cnn _ ip _ 2003 ##0 ##32 ##9 . 1600 . 02 story 2003 - 03 - 29 ##t ##16 : 00 : 00 - 05 : 00 new explosions in mo ##sul , baghdad wood ##ruff it was in northern iraq today that an eight artillery round hit the site occupied by kurdish fighters near cha ##mc ##ham ##al .","[[iraq], [site]]",NONE,PART-WHOLE-rl,39422
+"last i remember the convention applies to countries that signed the document and the two countries must have standing armies with uniforms . . . . the iraqi military is at our side , the terrorists are not .","[[countries], [armies]]",NONE,PART-WHOLE-rl,45465
+"cnn ##hl _ eng _ 2003 ##0 ##41 ##6 _ 1937 ##42 . 7 news story 2003 - 04 - 16 19 : 38 : 13 in northern iraq , u . s . marines and residents exchanged gunfire in the city of mo ##sul today , in the second day of civil disturbances there .","[[iraq], [city]]",NONE,PART-WHOLE-rl,50150
+"the u . s . army ' s 3rd squadron , 7th cavalry has compiled a rather extraordinary record in the past several days .","[[u, ., s, ., army], [7th, cavalry]]",NONE,PART-WHOLE-rl,53554
 the coalition air force will begin providing urban combat air support over the city .,"[[coalition], [force]]",NONE,PART-WHOLE-rl,56917
+"it also has a land ##er known as bea ##gle two , named after charles car win which he sailed to the island and went into its bit of fame .","[[it], [land, ##er]]",NONE,PART-WHOLE-rl,59714
 
-"ri gun , deputy director of american affairs for north korea ' s foreign ministry is representing north korea at the talks .","[[north, korea], [foreign, ministry]]",PART-WHOLE-lr,PART-WHOLE-rl,55336
-
+"china ' s military , which has a tradition of secrecy , did not comment about the accident friday night .","[[china], [military]]",ART-lr,PART-WHOLE-rl,18685
+"those pilots were captured on march 24th , after their apache helicopter went down in iraqi territory .","[[iraqi], [territory]]",ART-lr,PART-WHOLE-rl,20648
+"a convoy of russian diplomats , including the ambassador , came under fire sunday while eva ##cu ##ating baghdad , the russian foreign ministry said .","[[russian], [ministry]]",ART-lr,PART-WHOLE-rl,24478
 bass ##on was accused of directing south africa ' s former apartheid regime ' s bio ##chemical efforts aimed at destroying its opponents .,"[[south, africa], [regime]]",ART-lr,PART-WHOLE-rl,52698
 
-"it also has a land ##er known as bea ##gle two , named after charles car win which he sailed to the island and went into its bit of fame .","[[it], [land, ##er]]",ART-rl,PART-WHOLE-rl,59714
-
-"putin , who enjoyed a warm relationship with former chinese president jiang ze ##ming , has made efforts to nur ##ture ties with hu and was the first world leader to go to beijing to meet him in december when he was president - in - waiting .","[[putin], [hu]]",NONE,PER-SOC-rl,6824
+the colonel ins ##truct ##s his men to stay calm .,"[[his, men], []]",NONE,PER-SOC-rl,14076
+"chi ##lco ##te his soldiers take a knee , their weapons brought down from the ready position .","[[his, soldiers], []]",NONE,PER-SOC-rl,14088
+chi ##lco ##te he orders his men back to their compound to await cooler heads .,"[[his, men], []]",NONE,PER-SOC-rl,14104
 "one of his aide ##s tells the current issue of "" time , "" magazine , quote , "" even if it ' s $ 500 billion , so what ? ""","[[his, aide, ##s], []]",NONE,PER-SOC-rl,29977
 and gave us a whole lot of information and then went home and his father - in - law killed him .,"[[his, father, -, in, -, law], []]",NONE,PER-SOC-rl,40943
-"and could n ' t believe , i think , as a 4 - year - old now that his sister is home .","[[his, sister], []]",NONE,PER-SOC-rl,63327
+"aggressive ##vo ##ice ##dai ##ly _ 2004 ##12 ##18 . 100 ##4 web text 2004 - 12 - 18 ##t ##10 : 04 : 00 woman charged with murder , kidnapping fe ##tus - thing ##y scott 2004 - 12 - 18 ##t ##10 : 04 : 00 from the associated press : a baby girl who had been cut out of her mother ' s womb was found after a frantic search , and authorities arrested the woman they say strangled the mother and stole the child .","[[her, mother], []]",NONE,PER-SOC-rl,42411
 
-the colonel ins ##truct ##s his men to stay calm .,"[[his, men], []]",PER-SOC-lr,PER-SOC-rl,14076
-"chi ##lco ##te his soldiers take a knee , their weapons brought down from the ready position .","[[his, soldiers], []]",PER-SOC-lr,PER-SOC-rl,14088
-chi ##lco ##te he orders his men back to their compound to await cooler heads .,"[[his, men], []]",PER-SOC-lr,PER-SOC-rl,14104
+"putin , who enjoyed a warm relationship with former chinese president jiang ze ##ming , has made efforts to nur ##ture ties with hu and was the first world leader to go to beijing to meet him in december when he was president - in - waiting .","[[putin], [hu]]",PER-SOC-lr,PER-SOC-rl,6824
 "young ' s mother says , when she sees her son , she plans on hugging him for a good solid half hour .","[[her, son], []]",PER-SOC-lr,PER-SOC-rl,20970
+"hunter , 34 , filed for divorce in los angeles superior court , citing ir ##re ##con ##ci ##lab ##le differences with the 58 - year - old rock star to whom she has been married for nearly 13 years .","[[whom, she], []]",PER-SOC-lr,PER-SOC-rl,37317
+i visited all their families .,"[[their, families], []]",PER-SOC-lr,PER-SOC-rl,41046
+"if there ' s any good news in this story , it ' s that victoria jo will live on and carry her mother ' s memory .","[[her, mother], []]",PER-SOC-lr,PER-SOC-rl,42608
 my brother is in kuwait .,"[[my, brother], []]",PER-SOC-lr,PER-SOC-rl,57833
 but i think this helps me stay closer to my brother .,"[[my, brother], []]",PER-SOC-lr,PER-SOC-rl,57918
+"and could n ' t believe , i think , as a 4 - year - old now that his sister is home .","[[his, sister], []]",PER-SOC-lr,PER-SOC-rl,63327
 "despite prince charles ' ugly divorce with princess di anna , the affection between father and son is now pal ##pa ##ble and en ##via ##ble .","[[father], [son]]",PER-SOC-lr,PER-SOC-rl,66231
 
-"a house committee voted wednesday to allow people to shoot to kill in self - defense if they are attacked "" in any other place where he or she has a right to be . ""","[[house, committee], []]",NONE,ORG-AFF-rl,38066
-"some of the 40 , 000 british troops are kicking up a lot of dust in the iraqi desert making sure that nothing is left behind them that could hurt them .","[[british], [troops]]",NONE,ORG-AFF-rl,39177
+"now , can someone get the auburn cheer ##leader ##s some of those usc sweater ##s ?","[[auburn], [cheer, ##leader, ##s]]",NONE,ORG-AFF-rl,3723
+"as for that $ 90 million shoe contract with nike , it may be a good deal for james .","[[nike], [james]]",NONE,ORG-AFF-rl,28625
+"conversely , auburn has one of the most potent and balanced offensive attacks in the nation .","[[auburn], [one]]",NONE,ORG-AFF-rl,38307
 "i think it ' s really a question of degree , i mean , i think that ceo ##s should make millions of dollars running companies , there are tens of thousand employees , billions of dollars of revenue .","[[companies], [employees]]",NONE,ORG-AFF-rl,51880
-""" the los angeles times "" reporting that israeli and palestinian officials may be very close to reaching a deal for security control , not just of a small part of gaza , but returning all of the gaza strip to palestinian control , that ' s a very significant step , indeed , plus the west bank city of bethlehem .","[[palestinian], [officials]]",NONE,ORG-AFF-rl,66404
+"the comments indicate that russia ' s nu ##ance ##d position over the war in iraq was becoming ever more scrambled , with putin pushing to protect his bud ##ding friendship with us president george w . bush in the face of stride ##nt opposition from the russian media and other top k ##rem ##lin officials .","[[us], [president]]",NONE,ORG-AFF-rl,66753
 
-"` ` the president has made clear , that . . . whether the united nations votes or does not vote , that we will di ##sar ##m saddam hussein with a coalition of the willing , ' ' fl ##eis ##cher said .","[[coalition], [willing]]",GEN-AFF-lr,ORG-AFF-rl,52571
-
-"i mean do you know ( un ##int ##elli ##gible ) ban ##ham i ' m not too sure but judging by some of this , it ' s been here quite a long time so whether it ' s been used recently by them - there was an intel upbeat saying that they were possibly coming back to try and get this to use against them .","[[it], [them]]",NONE,ART-rl,19572
+it landed at a base controlled by the coalition .,"[[base], [coalition]]",NONE,ART-rl,3199
+"last saturday night , rebels in the central africa republic , captured the airport in the capital city of bang ##ui and the residence of president ang ##e - felix pat ##asse , who is out of the country .","[[residence], [ang, ##e, -, felix, pat, ##asse]]",NONE,ART-rl,5755
+from its flight deck president bush will make a major announcement to the american people tomorrow night on the end of major combat in iraq .,"[[deck], [bush]]",NONE,ART-rl,12673
+"the space agency has been under intense scrutiny since february when the space shuttle columbia di ##sin ##te ##grate ##d over texas , killing all seven crew members .","[[columbia], [members]]",NONE,ART-rl,18571
 they stand no chance against the m1 abrams tanks used by army and marines .,"[[tanks], [marines]]",NONE,ART-rl,26780
 "this man took the horse from a stable at the home of ud ##ay hussein , saddam ' s eldest son .","[[home], [ud, ##ay, hussein]]",NONE,ART-rl,33125
+"( voice - over ) : these iraqi ##s were ri ##fl ##ing a home of a senior member of the mu ##kha ##bara ##t , saddam ' s dread ##ed secret police .","[[home], [member]]",NONE,ART-rl,33170
+a russian soyuz capsule dropped them off this morning after docking perfectly at the orbiting outpost .,"[[capsule], [them]]",NONE,ART-rl,34754
+"in the first attack , a car carrying ran ##tis ##si , a senior member of the hamas group , a militant organization , was targeted .","[[car], [ran, ##tis, ##si]]",NONE,ART-rl,36217
 "i mean do you know ( un ##int ##elli ##gible ) ban ##ham i ' m not too sure but judging by some of this , it ' s been here quite a long time so whether it ' s been used recently by them - there was an intel upbeat saying that they were possibly coming back to try and get this to use against them .","[[it], [them]]",NONE,ART-rl,39262
+"mil ##am grenades , mortar ##s , all sorts of ammunition abandoned by iraqi soldiers but there for the taking .","[[grenades], [soldiers]]",NONE,ART-rl,39337
+"mil ##am grenades , mortar ##s , all sorts of ammunition abandoned by iraqi soldiers but there for the taking .","[[ammunition], [soldiers]]",NONE,ART-rl,39340
+"according to other reports reaching here , five syrian bus passengers were killed and 10 others were injured on sunday morning when a us missile hit the bus they were traveling in near the iraqi border .","[[bus], [they]]",NONE,ART-rl,50416
 "if passed next november , residents would have 90 days to give up firearms they keep in their homes or businesses .","[[firearms], [they]]",NONE,ART-rl,52077
+inside those helicopters rescue im ##sw ##im ##mers .,"[[helicopters], [im, ##sw, ##im, ##mers]]",NONE,ART-rl,57484
+"it also has a land ##er known as bea ##gle two , named after charles car win which he sailed to the island and went into its bit of fame .","[[which], [he]]",NONE,ART-rl,59712
 
-our jerusalem bureau chief mike hanna standing by with more and that .,"[[jerusalem], [bureau]]",NONE,GEN-AFF-rl,32516
+"russia objected to world bank rules that required monitoring of patients receiving medication , the world bank said .","[[russia], [patients]]",NONE,GEN-AFF-rl,5659
+a road that ' s now in the hands of iraqi kurdish forces .,"[[iraqi], [forces]]",NONE,GEN-AFF-rl,7893
+she said she was embarrassed to be from the same state as president bush .,"[[state], [bush]]",NONE,GEN-AFF-rl,11695
+t ##10 : 10 : 00 i du n no if you want anything to do with their stock market .,"[[their], [market]]",NONE,GEN-AFF-rl,42893
+from bbc news : a retired italian doctor has revealed for the first time how he invented a fictitious disease which fooled the nazis during world war ii .,"[[italian], [doctor]]",NONE,GEN-AFF-rl,49263
+a senior kurdish intelligence official says citizens were protesting the american occupation of the city ' s main government building .,"[[kurdish], [official]]",NONE,GEN-AFF-rl,50169
+"while we do , we want to tell you marines battling for control of the bridges in the southern city of nas ##iri ##yah face stiff resistance from iraqi paramilitary groups today .","[[iraqi], [groups]]",NONE,GEN-AFF-rl,53803
+"virginia is blessed to have so many respected foreign policy and security policy public servants , past and present .","[[virginia], [servants]]",NONE,GEN-AFF-rl,59765
 
-a senior kurdish intelligence official says citizens were protesting the american occupation of the city ' s main government building .,"[[kurdish], [official]]",GEN-AFF-lr,GEN-AFF-rl,50169
+our jerusalem bureau chief mike hanna standing by with more and that .,"[[jerusalem], [bureau]]",PART-WHOLE-rl,GEN-AFF-rl,32516
+
+they were hidden under a rose ##bush in the back yard of an iraqi scientist in baghdad .,"[[iraqi], [scientist]]",ORG-AFF-rl,GEN-AFF-rl,28019
+die - hard defenders have held out for days inside the city of 1 . 3 million .,"[[city], [1, ., 3, million]]",ORG-AFF-rl,GEN-AFF-rl,31008
+those close to miller believe he was shot by an armored israeli personnel carrier .,"[[israeli], [personnel]]",ORG-AFF-rl,GEN-AFF-rl,38697
+"despite the heavy bombing , which the u . s . central command said targeted military command and control installations , the iraqi regime gave no sign of quit ##ting .","[[u, ., s], [central, command]]",ORG-AFF-rl,GEN-AFF-rl,42132
 
