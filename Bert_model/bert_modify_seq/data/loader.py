@@ -32,15 +32,18 @@ class DataLoader(object):
             tokens = list(d['token'])
             if opt['lower']:
                 tokens = [t.lower() for t in tokens]
+
+#             do bert tokenize
+#             todo    
+            seq_len = len(tokens) + 2
+    
             # anonymize tokens
             ss, se = d['subj_start'], d['subj_end']
             os, oe = d['obj_start'], d['obj_end']
             
             tokens[ss:se+1] = ["[unused" + str(e_type2idx(d['subj_type'])) + "]"] * (se-ss+1)
             tokens[os:oe+1] = ["[unused" + str(e_type2idx(d['obj_type']) + len(entity_type)) + "]"] * (oe-os+1)
-#             do bert tokenize
-#             todo
-
+            
             pos = d['stanford_pos']
             ner = d['stanford_ner']
             deprel = d['stanford_deprel']
@@ -52,7 +55,7 @@ class DataLoader(object):
             subj_type = d['subj_type']
             obj_type = d['obj_type']
             relation = r_type2idx[d['relation']]
-            processed += [(tokens, pos, ner, deprel, head, subj_positions, obj_positions, subj_type, obj_type, relation)]
+            processed += {"len": seq_len, "tokens": tokens, "pos": pos, "ner": ner, "deprel": deprel, "head": head, "s_position": subj_positions, "o_position": obj_positions, "s_type": subj_type, "o_type": obj_type, relation}
         return processed
 
 def get_positions(start_idx, end_idx, length):
