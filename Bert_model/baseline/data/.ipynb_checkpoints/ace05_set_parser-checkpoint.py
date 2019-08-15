@@ -110,46 +110,6 @@ def preserve_relation_example(relation, rMention, out_relation_list, sentence_in
 	return word_seg_error
 
 
-def get_relations_from_file(docID, sgm_dicts, doc2relations, nlp, props):
-	out_relation_list = []
-	word_seg_error = 0
-	
-	for relation_id, relation in doc2relations[docID].items():
-		for rMention in relation.mentions:
-			mention_extent_start = rMention.extent.start
-			mention_extent_end = rMention.extent.end
-			
-			for sentence_index, sentence in enumerate(sgm_dicts[docID].sentence_list):
-				if sentence.start <= mention_extent_start <= sentence.end:
-					
-					if not (sentence.start <= mention_extent_end <= sentence.end):
-						print('Relation extent over sentence boundary!')
-					# print(sentence['string'])
-					
-					if not (is_in_sentence(rMention.arg1.extent.start, sentence.start, sentence.end) and
-					        is_in_sentence(rMention.arg1.extent.end, sentence.start, sentence.end) and
-					        is_in_sentence(rMention.arg2.extent.start, sentence.start, sentence.end) and
-					        is_in_sentence(rMention.arg2.extent.end, sentence.start, sentence.end)):
-						print('mentionArg over sentence boundary! exit!')
-					else:
-						word_seg_error = preserve_relation_example(relation, rMention, out_relation_list,
-						                                           sentence_index, sentence, nlp, props, word_seg_error)
-	
-	print('word_seg_error:{}'.format(word_seg_error))
-	return out_relation_list
-
-
-def get_relation_from_files(dir, outpath, sgm_dicts, doc2relations, nlp, props):
-	files = glob.glob(dir + '*.sgm')
-	for f in files:
-		docID = os.path.splitext(os.path.basename(f))[0]
-		
-		relation_list = get_relations_from_file(docID, sgm_dicts, doc2relations, nlp, props)
-		
-		with open(outpath + docID + '.relationMention.json', 'w') as f:
-			json.dump(relation_list, f, indent=4, ensure_ascii=False)
-
-
 def merge_sgm_apf(sgm_dicts: Dict[str, SgmDoc], doc2entities: Dict[str, Dict[str, ApfEntity]],
 				  doc2relations: Dict[str, Dict[str, ApfRelation]]) -> Dict[str, Document]:
 	if DEBUG == 1:
@@ -193,6 +153,11 @@ def merge_sgm_apf(sgm_dicts: Dict[str, SgmDoc], doc2entities: Dict[str, Dict[str
 						if not (sgm_s.start <= r_mention_end <= sgm_s.end):  # relation extent cross sentence
 							if DEBUG == 1:
 								r_cross_count += 1
+								print(sgm_s.string)
+								print(docID)
+								print(apf_rm.extent.text)
+								print("arg1:{}".format(apf_rm.arg1.extent.text))
+								print("arg2:{}".format(apf_rm.arg2.extent.text))
 						if not (is_in_sentence(apf_rm.arg1.extent.start, sgm_s.start, sgm_s.end) and
 								is_in_sentence(apf_rm.arg1.extent.end, sgm_s.start, sgm_s.end) and
 								is_in_sentence(apf_rm.arg2.extent.start, sgm_s.start, sgm_s.end) and
@@ -299,9 +264,9 @@ def clean_docs_chinese(doc_dicts):
 def parse_source_english(data_path, nlp)-> Dict[str, Document]:
 	doc_dicts = {}
 
-		
-	SgmDoc_dicts = parse_sgms_english(fp, nlp)
-	doc2entities, doc2relations, doc2events = parse_apf_docs(fp)
+	# cts and un are not used	
+	SgmDoc_dicts = parse_sgms_english(data_path, nlp)
+	doc2entities, doc2relations, doc2events = parse_apf_docs(data_path)
 	doc_dicts.update(merge_sgm_apf(SgmDoc_dicts, doc2entities, doc2relations))
 	clean_docs_english(doc_dicts)
 	return doc_dicts
@@ -309,59 +274,60 @@ def parse_source_english(data_path, nlp)-> Dict[str, Document]:
 
 def parse_source_chinese(data_path) -> Dict[str, Document]:
 	doc_dicts = {}
-	for path in ['bn/', 'nw/', 'wl/']:
-		fp = data_path + path + 'adj/'
-		SgmDoc_dicts = parse_sgms_chinese(fp)
-		doc2entities, doc2relations, doc2events = parse_apf_docs(fp)
-		doc_dicts.update(merge_sgm_apf(SgmDoc_dicts, doc2entities, doc2relations))
+	SgmDoc_dicts = parse_sgms_chinese(data_path)
+	doc2entities, doc2relations, doc2events = parse_apf_docs(data_path)
+	doc_dicts.update(merge_sgm_apf(SgmDoc_dicts, doc2entities, doc2relations))
 	clean_docs_chinese(doc_dicts)
 	return doc_dicts
 
 
 if __name__ == '__main__':
 	#######english########
+	import argparse
+
+	DEBUG = 1
+
+	parser = argparse.ArgumentParser()
+	parser.add_argument('--data_path', default='/media/moju/data/work/resource/data/LDC2006T06/data/English/')
+	parser.add_argument('--output_path', default='./output/')
+	parser.add_argument('--corenlp_server', default='http://140.109.19.190')
+
+	args = parser.parse_args()
+
+	nlp = StanfordCoreNLP(args.corenlp_server, port=9000, lang='en')
+	data_path = args.data_path
+	doc_dicts = parse_source_english(data_path, nlp)
+
+	print(len(doc_dicts))
+	print(doc_dicts["AGGRESSIVEVOICEDAILY_20041101.1144"].sentences[1].char_b)
+	print(doc_dicts["AGGRESSIVEVOICEDAILY_20041101.1144"].sentences[1].char_e)
+	print(doc_dicts["AGGRESSIVEVOICEDAILY_20041101.1144"].sentences[1].text)
+
+	print(str(doc_dicts["AGGRESSIVEVOICEDAILY_20041101.1144"].sentences[1].relation_mentions[0].id))
+	print(str(doc_dicts["AGGRESSIVEVOICEDAILY_20041101.1144"].sentences[1].entity_mentions[0].id))
+	print(str(doc_dicts["AGGRESSIVEVOICEDAILY_20041101.1144"].sentences[1].entity_mentions[0].text))
+	print(str(doc_dicts["AGGRESSIVEVOICEDAILY_20041101.1144"].sentences[1].entity_mentions[0].char_b))
+	print(str(doc_dicts["AGGRESSIVEVOICEDAILY_20041101.1144"].sentences[1].entity_mentions[0].char_e))
+
+	print(doc_dicts["AGGRESSIVEVOICEDAILY_20041101.1144"].sentences[1].text[316 - 266:317 - 266])
+	
+	#######chinese########
 	# import argparse
 	#
-	# DEBUG = 0
-	#
 	# parser = argparse.ArgumentParser()
-	# parser.add_argument('--data_path', default='/media/moju/data/work/resource/data/LDC2006T06/data/English/')
+	# parser.add_argument('--data_path', default='/media/moju/data/work/resource/data/LDC2006T06/data/Chinese/')
 	# parser.add_argument('--output_path', default='./output/')
-	# parser.add_argument('--corenlp_path', default='http://140.109.19.246')
+	# parser.add_argument('--corenlp_path', default='http://140.109.19.190')
 	#
 	# args = parser.parse_args()
 	#
 	# data_path = args.data_path
-	# doc_dicts = parse_source_english(data_path)
+	# doc_dicts = parse_source_chinese(data_path)
 	#
 	# print(len(doc_dicts))
-	# print(doc_dicts["AGGRESSIVEVOICEDAILY_20041101.1144"].sentences[1].char_b)
-	# print(doc_dicts["AGGRESSIVEVOICEDAILY_20041101.1144"].sentences[1].char_e)
-	# print(doc_dicts["AGGRESSIVEVOICEDAILY_20041101.1144"].sentences[1].text)
-	#
-	# print(str(doc_dicts["AGGRESSIVEVOICEDAILY_20041101.1144"].sentences[1].entity_mentions[0].text))
-	# print(str(doc_dicts["AGGRESSIVEVOICEDAILY_20041101.1144"].sentences[1].entity_mentions[0].char_b))
-	# print(str(doc_dicts["AGGRESSIVEVOICEDAILY_20041101.1144"].sentences[1].entity_mentions[0].char_e))
-	#
-	# print(doc_dicts["AGGRESSIVEVOICEDAILY_20041101.1144"].sentences[1].text[316 - 266:317 - 266])
-	
-	#######chinese########
-	import argparse
-
-	parser = argparse.ArgumentParser()
-	parser.add_argument('--data_path', default='/media/moju/data/work/resource/data/LDC2006T06/data/Chinese/')
-	parser.add_argument('--output_path', default='./output/')
-	parser.add_argument('--corenlp_path', default='http://140.109.19.190')
-
-	args = parser.parse_args()
-
-	data_path = args.data_path
-	doc_dicts = parse_source_chinese(data_path)
-
-	print(len(doc_dicts))
-	print(doc_dicts["CTS20001211.1300.0012"].sentences[1].text)
-	print(doc_dicts["CTS20001211.1300.0012"].sentences[1].char_b)
-	print(str(doc_dicts["CTS20001211.1300.0012"].sentences[1].relation_mentions[0].arg1.text))
-	print(str(doc_dicts["CTS20001211.1300.0012"].sentences[1].relation_mentions[0].arg1.char_b))
-	print(str(doc_dicts["CTS20001211.1300.0012"].sentences[1].relation_mentions[0].arg1.char_e))
-	print(doc_dicts["CTS20001211.1300.0012"].sentences[1].text[19:20+1])
+	# print(doc_dicts["CTS20001211.1300.0012"].sentences[1].text)
+	# print(doc_dicts["CTS20001211.1300.0012"].sentences[1].char_b)
+	# print(str(doc_dicts["CTS20001211.1300.0012"].sentences[1].relation_mentions[0].arg1.text))
+	# print(str(doc_dicts["CTS20001211.1300.0012"].sentences[1].relation_mentions[0].arg1.char_b))
+	# print(str(doc_dicts["CTS20001211.1300.0012"].sentences[1].relation_mentions[0].arg1.char_e))
+	# print(doc_dicts["CTS20001211.1300.0012"].sentences[1].text[19:20+1])

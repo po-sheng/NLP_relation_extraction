@@ -1,13 +1,15 @@
 from multi_doc_analyzer.structure.structure import *
-from multi_doc_analyzer.corpus_reader.ace2005_reader.ace05_parser import parse_source_english, parse_source_chinese
-
+import sys
+sys.path.append("/work/relation_extraction/Bert_model/baseline/data")
+from ace05_set_parser import parse_source_english, parse_source_chinese
+from stanfordcorenlp import StanfordCoreNLP
 
 class ACE05Reader:
 	"""
 	Read and parse ACE-2005 source file (*.sgm) and annotation file (*.xml).
 	
 	"""
-	def __init__(self, lang: str, nlp=None):
+	def __init__(self, lang: str, nlp: StanfordCoreNLP=None):
 		"""
 		:param lang: the language which is read_file {en:english, zh:chinese}
 		"""
@@ -28,6 +30,8 @@ class ACE05Reader:
 
 
 if __name__=='__main__':
+	nlp = StanfordCoreNLP()
+
 	# english
 	reader = ACE05Reader('en')
 	doc_dicts = reader.read('/media/moju/data/work/resource/data/LDC2006T06/')
