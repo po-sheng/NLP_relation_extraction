@@ -8,6 +8,7 @@ import torch
 from tqdm import tqdm
 import numpy as np
 from pytorch_transformers.tokenization_bert import BertTokenizer
+from allennlp.data.tokenizers import Token
 
 class DataLoader(object):
     """
@@ -38,29 +39,29 @@ class DataLoader(object):
                 tokens = [t.lower() for t in tokens]
             
             bert_tokenize(tokenizer, d, opt)
-            
+            tokens = list(d["token"])
             seq_len = len(tokens) + 2
     
             # anonymize tokens
             ss, se = d['subj_start'], d['subj_end']
             os, oe = d['obj_start'], d['obj_end']
 
-            tokens[ss:se+1] = ["[unused" + str(e_type2idx[d['subj_type']]) + "]"] * (se-ss+1)
-            tokens[os:oe+1] = ["[unused" + str(e_type2idx[d['obj_type']] + len(entity_type)) + "]"] * (oe-os+1)
-            tokens.append("[SEP]")
+            tokens[ss:se+1] = [Token(text="[unused" + str(e_type2idx[d['subj_type']]) + "]")] * (se-ss+1)
+            tokens[os:oe+1] = [Token(text="[unused" + str(e_type2idx[d['obj_type']] + len(entity_type)) + "]")] * (oe-os+1)
+            tokens.append(Token(text="[SEP]"))
             for i in range(ss, se+1):
                 tokens.append(d["token"][i])
-            tokens.append("[SEP]")
+            tokens.append(Token(text="[SEP]"))
             for i in range(os, oe+1):
-                tokens.append(d["token"][i])            
+                tokens.append(d["token"][i])          
             pos = d['stanford_pos']
             ner = d['stanford_ner']
             deprel = d['stanford_deprel']
             head = [int(x) for x in d['stanford_head']]
             assert any([x == 0 for x in head])
-            l = len(tokens)
-            subj_positions = get_positions(d['subj_start'], d['subj_end'], l)
-            obj_positions = get_positions(d['obj_start'], d['obj_end'], l)
+            
+            subj_positions = get_positions(d['subj_start']+1, d['subj_end']+1, seq_len)
+            obj_positions = get_positions(d['obj_start']+1, d['obj_end']+1, seq_len)
             subj_type = d['subj_type']
             obj_type = d['obj_type']
             relation = r_type2idx[d['relation']]
@@ -69,7 +70,7 @@ class DataLoader(object):
 
 def get_positions(start_idx, end_idx, length):
     """ Get subj/obj position sequence. """
-    return list(range(start_idx, 0)) + [0]*(end_idx - start_idx + 1) + \
+    return list(range(start_idx, 0, -1)) + [0]*(end_idx - start_idx + 1) + \
             list(range(1, length-end_idx))
 
 def bert_tokenize(tokenizer, d, opt):
@@ -92,9 +93,9 @@ def bert_tokenize(tokenizer, d, opt):
             se += counter
         if i == d["obj_end"]:
             oe += counter
-        
+
         for sub_word in tok_word:
-            token.append(sub_word)
+            token.append(Token(text=sub_word))
             pos.append(d["stanford_pos"][i])
             ner.append(d["stanford_ner"][i])
             head.append(d["stanford_head"][i])
