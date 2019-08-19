@@ -62,9 +62,9 @@ class DataLoader(object):
 def get_positions(ss, se, os, oe, s_type, o_type, length):
     """ Get subj/obj position sequence. """
     if ss < os:
-        return [0]*ss + [s_type]*(se - ss + 1) + [0]*(os - se - 1) + [o_type]*(oe - os + 1) + [0]*(length - oe - 1)
+        return [1]*ss + [s_type]*(se - ss + 1) + [1]*(os - se - 1) + [o_type]*(oe - os + 1) + [1]*(length - oe - 1)
     else:
-        return [0]*os + [o_type]*(oe - os + 1) + [0]*(ss - oe - 1) + [s_type]*(se - ss + 1) + [0]*(length - se - 1) 
+        return [1]*os + [o_type]*(oe - os + 1) + [1]*(ss - oe - 1) + [s_type]*(se - ss + 1) + [1]*(length - se - 1) 
 
 def bert_tokenize(tokenizer, d, opt):
     counter = 0
