@@ -16,9 +16,9 @@ nlp_en = StanfordCoreNLP('http://140.109.19.190', port=9000, lang='en')
 eng_reader = ACE05Reader('en', nlp_en)
 
 for each_set in Set:
+    data = {}
     doc_dicts = eng_reader.read(read_path + each_set + "/")
-    dep = {}
-    head = {}
+    file_dict = {}
     tqdm_key = tqdm(doc_dicts.keys())
     for file in tqdm_key:
         mydoc = doc_dicts[file]
@@ -32,8 +32,8 @@ for each_set in Set:
                 head_sen_list.append(mydoc.sentences[sen_idx].tokens[tok_idx].dep_head)
             dep_list.append(dep_sen_list)
             head_list.append(head_sen_list)
-        dep[file] = dep_list
-        head[file] = head_list
-    data = {"dep_type": dep, "dep_head": head}
+        file_dict["dep_type"] = dep_list
+        file_dict["dep_head"] = head_list
+        data[file] = file_dict
     with open(output_path + "ace_" + each_set + "_dep.json", 'w') as f:
         json.dump(data, f)
