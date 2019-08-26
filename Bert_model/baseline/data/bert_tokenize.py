@@ -13,6 +13,12 @@ def bert_tokenize(tokenizer, d: dict, opt: dict={"lower": False}):
     
     # iter through all the current tokens
     for i,word in enumerate(d["token"]):
+        # special term replace
+        if word == "-LRB-" or word == "LSB" or word == "LCB":
+            word = "("
+        elif word == "-RRB-" or word == "-RSB-" or word == "RCB":
+            word = ")"
+        
         # get new token from original one
         tok_word = tokenizer.tokenize(word)
         idx_map[i] = len(token)
@@ -40,10 +46,10 @@ def bert_tokenize(tokenizer, d: dict, opt: dict={"lower": False}):
             head[i] = idx_map[head[i] - 1] + 1
         
     # re-assign
-    d["token"] = token
-    d["stanford_pos"] = pos
-    d["stanford_ner"] = ner
-    d["stanford_head"] = head
-    d["stanford_deprel"] = dep_rel
+    d["token"] = token.copy()
+    d["stanford_pos"] = pos.copy()
+    d["stanford_ner"] = ner.copy()
+    d["stanford_head"] = head.copy()
+    d["stanford_deprel"] = dep_rel.copy()
     d["subj_start"], d["subj_end"] = ss, se
     d["obj_start"], d["obj_end"] = os, oe

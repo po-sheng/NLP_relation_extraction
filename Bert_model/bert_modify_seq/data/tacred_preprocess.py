@@ -1,6 +1,8 @@
 """
 Data loader for TACRED json files.
 """
+import sys
+sys.path.append("/work/relation_extraction/Bert_model/baseline/data")
 
 import json
 import random
@@ -9,6 +11,7 @@ from tqdm import tqdm
 import numpy as np
 from pytorch_transformers.tokenization_bert import BertTokenizer
 from allennlp.data.tokenizers import Token
+from bert_tokenize import bert_tokenize
 
 class DataLoader(object):
     """
@@ -76,41 +79,6 @@ def get_positions(start_idx, end_idx, length, max_len):
     """ Get subj/obj position sequence. """
     return list(range(start_idx, 0, -1)) + [0]*(end_idx - start_idx + 1) + \
             list(range(1 + max_len, length-end_idx+max_len))
-
-def bert_tokenize(tokenizer, d, opt):
-    counter = 0
-    token = []
-    pos = []
-    ner = []
-    head = []
-    dep_rel = []
-    ss, se = d["subj_start"], d["subj_end"]
-    os, oe = d["obj_start"], d["obj_end"]
-    for i,word in enumerate(d["token"]):
-        tok_word = tokenizer.tokenize(word)
-        if i == d["subj_start"]:
-            ss += counter
-        if i == d["obj_start"]:
-            os += counter        
-        counter += len(tok_word) - 1
-        if i == d["subj_end"]:
-            se += counter
-        if i == d["obj_end"]:
-            oe += counter
-
-        for sub_word in tok_word:
-            token.append(Token(text=sub_word))
-            pos.append(d["stanford_pos"][i])
-            ner.append(d["stanford_ner"][i])
-            head.append(d["stanford_head"][i])
-            dep_rel.append(d["stanford_deprel"][i])
-    d["token"] = token
-    d["stanford_pos"] = pos
-    d["stanford_ner"] = ner
-    d["stanford_head"] = head
-    d["stanford_deprel"] = dep_rel
-    d["subj_start"], d["subj_end"] = ss, se
-    d["obj_start"], d["obj_end"] = os, oe
         
 if __name__ == "__main__":
     path = "/work/tacred/data/json/dev.json"
